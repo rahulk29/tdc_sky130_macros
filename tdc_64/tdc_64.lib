@@ -2895,7 +2895,7 @@ library (tdc_64) {
       fall_capacitance : 0.01;
       fall_capacitance_range (0.00421607, 0.01);
       timing () {
-        related_pin : "clk";
+        related_pin : "a";
         timing_type : min_pulse_width;
         rise_constraint (mpw_constraint_template_3x3) {
           index_1 ("0.00125, 0.005, 0.04");
@@ -2911,7 +2911,7 @@ library (tdc_64) {
         }
       }
       timing () {
-        related_pin : "clk";
+        related_pin : "a";
         timing_type : minimum_period;
         rise_constraint (mpw_constraint_template_3x3) {
           index_1 ("0.00125, 0.005, 0.04");
