@@ -268,3109 +268,3109 @@ Xs1buf_0_0
 + vss
 + a
 + int1[0]
-+ inv
++ inv_tdc
 Xs1buf_0_1
 + vdd
 + vss
 + int1[0]
 + stage1[0]
-+ inv
++ inv_tdc
 Xs1buf_1_0
 + vdd
 + vss
 + stage1[0]
 + int1[1]
-+ inv
++ inv_tdc
 Xs1buf_1_1
 + vdd
 + vss
 + int1[1]
 + stage1[1]
-+ inv
++ inv_tdc
 Xs1buf_2_0
 + vdd
 + vss
 + stage1[1]
 + int1[2]
-+ inv
++ inv_tdc
 Xs1buf_2_1
 + vdd
 + vss
 + int1[2]
 + stage1[2]
-+ inv
++ inv_tdc
 Xs1buf_3_0
 + vdd
 + vss
 + stage1[2]
 + int1[3]
-+ inv
++ inv_tdc
 Xs1buf_3_1
 + vdd
 + vss
 + int1[3]
 + stage1[3]
-+ inv
++ inv_tdc
 Xs1buf_4_0
 + vdd
 + vss
 + stage1[3]
 + int1[4]
-+ inv
++ inv_tdc
 Xs1buf_4_1
 + vdd
 + vss
 + int1[4]
 + stage1[4]
-+ inv
++ inv_tdc
 Xs1buf_5_0
 + vdd
 + vss
 + stage1[4]
 + int1[5]
-+ inv
++ inv_tdc
 Xs1buf_5_1
 + vdd
 + vss
 + int1[5]
 + stage1[5]
-+ inv
++ inv_tdc
 Xs1buf_6_0
 + vdd
 + vss
 + stage1[5]
 + int1[6]
-+ inv
++ inv_tdc
 Xs1buf_6_1
 + vdd
 + vss
 + int1[6]
 + stage1[6]
-+ inv
++ inv_tdc
 Xs1buf_7_0
 + vdd
 + vss
 + stage1[6]
 + int1[7]
-+ inv
++ inv_tdc
 Xs1buf_7_1
 + vdd
 + vss
 + int1[7]
 + stage1[7]
-+ inv
++ inv_tdc
 Xs1buf_8_0
 + vdd
 + vss
 + stage1[7]
 + int1[8]
-+ inv
++ inv_tdc
 Xs1buf_8_1
 + vdd
 + vss
 + int1[8]
 + stage1[8]
-+ inv
++ inv_tdc
 Xs1buf_9_0
 + vdd
 + vss
 + stage1[8]
 + int1[9]
-+ inv
++ inv_tdc
 Xs1buf_9_1
 + vdd
 + vss
 + int1[9]
 + stage1[9]
-+ inv
++ inv_tdc
 Xs1buf_10_0
 + vdd
 + vss
 + stage1[9]
 + int1[10]
-+ inv
++ inv_tdc
 Xs1buf_10_1
 + vdd
 + vss
 + int1[10]
 + stage1[10]
-+ inv
++ inv_tdc
 Xs1buf_11_0
 + vdd
 + vss
 + stage1[10]
 + int1[11]
-+ inv
++ inv_tdc
 Xs1buf_11_1
 + vdd
 + vss
 + int1[11]
 + stage1[11]
-+ inv
++ inv_tdc
 Xs1buf_12_0
 + vdd
 + vss
 + stage1[11]
 + int1[12]
-+ inv
++ inv_tdc
 Xs1buf_12_1
 + vdd
 + vss
 + int1[12]
 + stage1[12]
-+ inv
++ inv_tdc
 Xs1buf_13_0
 + vdd
 + vss
 + stage1[12]
 + int1[13]
-+ inv
++ inv_tdc
 Xs1buf_13_1
 + vdd
 + vss
 + int1[13]
 + stage1[13]
-+ inv
++ inv_tdc
 Xs1buf_14_0
 + vdd
 + vss
 + stage1[13]
 + int1[14]
-+ inv
++ inv_tdc
 Xs1buf_14_1
 + vdd
 + vss
 + int1[14]
 + stage1[14]
-+ inv
++ inv_tdc
 Xs1buf_15_0
 + vdd
 + vss
 + stage1[14]
 + int1[15]
-+ inv
++ inv_tdc
 Xs1buf_15_1
 + vdd
 + vss
 + int1[15]
 + stage1[15]
-+ inv
++ inv_tdc
 Xs1buf_16_0
 + vdd
 + vss
 + stage1[15]
 + int1[16]
-+ inv
++ inv_tdc
 Xs1buf_16_1
 + vdd
 + vss
 + int1[16]
 + stage1[16]
-+ inv
++ inv_tdc
 Xs1buf_17_0
 + vdd
 + vss
 + stage1[16]
 + int1[17]
-+ inv
++ inv_tdc
 Xs1buf_17_1
 + vdd
 + vss
 + int1[17]
 + stage1[17]
-+ inv
++ inv_tdc
 Xs1buf_18_0
 + vdd
 + vss
 + stage1[17]
 + int1[18]
-+ inv
++ inv_tdc
 Xs1buf_18_1
 + vdd
 + vss
 + int1[18]
 + stage1[18]
-+ inv
++ inv_tdc
 Xs1buf_19_0
 + vdd
 + vss
 + stage1[18]
 + int1[19]
-+ inv
++ inv_tdc
 Xs1buf_19_1
 + vdd
 + vss
 + int1[19]
 + stage1[19]
-+ inv
++ inv_tdc
 Xs1buf_20_0
 + vdd
 + vss
 + stage1[19]
 + int1[20]
-+ inv
++ inv_tdc
 Xs1buf_20_1
 + vdd
 + vss
 + int1[20]
 + stage1[20]
-+ inv
++ inv_tdc
 Xs1buf_21_0
 + vdd
 + vss
 + stage1[20]
 + int1[21]
-+ inv
++ inv_tdc
 Xs1buf_21_1
 + vdd
 + vss
 + int1[21]
 + stage1[21]
-+ inv
++ inv_tdc
 Xs1buf_22_0
 + vdd
 + vss
 + stage1[21]
 + int1[22]
-+ inv
++ inv_tdc
 Xs1buf_22_1
 + vdd
 + vss
 + int1[22]
 + stage1[22]
-+ inv
++ inv_tdc
 Xs1buf_23_0
 + vdd
 + vss
 + stage1[22]
 + int1[23]
-+ inv
++ inv_tdc
 Xs1buf_23_1
 + vdd
 + vss
 + int1[23]
 + stage1[23]
-+ inv
++ inv_tdc
 Xs1buf_24_0
 + vdd
 + vss
 + stage1[23]
 + int1[24]
-+ inv
++ inv_tdc
 Xs1buf_24_1
 + vdd
 + vss
 + int1[24]
 + stage1[24]
-+ inv
++ inv_tdc
 Xs1buf_25_0
 + vdd
 + vss
 + stage1[24]
 + int1[25]
-+ inv
++ inv_tdc
 Xs1buf_25_1
 + vdd
 + vss
 + int1[25]
 + stage1[25]
-+ inv
++ inv_tdc
 Xs1buf_26_0
 + vdd
 + vss
 + stage1[25]
 + int1[26]
-+ inv
++ inv_tdc
 Xs1buf_26_1
 + vdd
 + vss
 + int1[26]
 + stage1[26]
-+ inv
++ inv_tdc
 Xs1buf_27_0
 + vdd
 + vss
 + stage1[26]
 + int1[27]
-+ inv
++ inv_tdc
 Xs1buf_27_1
 + vdd
 + vss
 + int1[27]
 + stage1[27]
-+ inv
++ inv_tdc
 Xs1buf_28_0
 + vdd
 + vss
 + stage1[27]
 + int1[28]
-+ inv
++ inv_tdc
 Xs1buf_28_1
 + vdd
 + vss
 + int1[28]
 + stage1[28]
-+ inv
++ inv_tdc
 Xs1buf_29_0
 + vdd
 + vss
 + stage1[28]
 + int1[29]
-+ inv
++ inv_tdc
 Xs1buf_29_1
 + vdd
 + vss
 + int1[29]
 + stage1[29]
-+ inv
++ inv_tdc
 Xs1buf_30_0
 + vdd
 + vss
 + stage1[29]
 + int1[30]
-+ inv
++ inv_tdc
 Xs1buf_30_1
 + vdd
 + vss
 + int1[30]
 + stage1[30]
-+ inv
++ inv_tdc
 Xs1buf_31_0
 + vdd
 + vss
 + stage1[30]
 + int1[31]
-+ inv
++ inv_tdc
 Xs1buf_31_1
 + vdd
 + vss
 + int1[31]
 + stage1[31]
-+ inv
++ inv_tdc
 Xs1buf_32_0
 + vdd
 + vss
 + stage1[31]
 + int1[32]
-+ inv
++ inv_tdc
 Xs1buf_32_1
 + vdd
 + vss
 + int1[32]
 + stage1[32]
-+ inv
++ inv_tdc
 Xs1buf_33_0
 + vdd
 + vss
 + stage1[32]
 + int1[33]
-+ inv
++ inv_tdc
 Xs1buf_33_1
 + vdd
 + vss
 + int1[33]
 + stage1[33]
-+ inv
++ inv_tdc
 Xs1buf_34_0
 + vdd
 + vss
 + stage1[33]
 + int1[34]
-+ inv
++ inv_tdc
 Xs1buf_34_1
 + vdd
 + vss
 + int1[34]
 + stage1[34]
-+ inv
++ inv_tdc
 Xs1buf_35_0
 + vdd
 + vss
 + stage1[34]
 + int1[35]
-+ inv
++ inv_tdc
 Xs1buf_35_1
 + vdd
 + vss
 + int1[35]
 + stage1[35]
-+ inv
++ inv_tdc
 Xs1buf_36_0
 + vdd
 + vss
 + stage1[35]
 + int1[36]
-+ inv
++ inv_tdc
 Xs1buf_36_1
 + vdd
 + vss
 + int1[36]
 + stage1[36]
-+ inv
++ inv_tdc
 Xs1buf_37_0
 + vdd
 + vss
 + stage1[36]
 + int1[37]
-+ inv
++ inv_tdc
 Xs1buf_37_1
 + vdd
 + vss
 + int1[37]
 + stage1[37]
-+ inv
++ inv_tdc
 Xs1buf_38_0
 + vdd
 + vss
 + stage1[37]
 + int1[38]
-+ inv
++ inv_tdc
 Xs1buf_38_1
 + vdd
 + vss
 + int1[38]
 + stage1[38]
-+ inv
++ inv_tdc
 Xs1buf_39_0
 + vdd
 + vss
 + stage1[38]
 + int1[39]
-+ inv
++ inv_tdc
 Xs1buf_39_1
 + vdd
 + vss
 + int1[39]
 + stage1[39]
-+ inv
++ inv_tdc
 Xs1buf_40_0
 + vdd
 + vss
 + stage1[39]
 + int1[40]
-+ inv
++ inv_tdc
 Xs1buf_40_1
 + vdd
 + vss
 + int1[40]
 + stage1[40]
-+ inv
++ inv_tdc
 Xs1buf_41_0
 + vdd
 + vss
 + stage1[40]
 + int1[41]
-+ inv
++ inv_tdc
 Xs1buf_41_1
 + vdd
 + vss
 + int1[41]
 + stage1[41]
-+ inv
++ inv_tdc
 Xs1buf_42_0
 + vdd
 + vss
 + stage1[41]
 + int1[42]
-+ inv
++ inv_tdc
 Xs1buf_42_1
 + vdd
 + vss
 + int1[42]
 + stage1[42]
-+ inv
++ inv_tdc
 Xs1buf_43_0
 + vdd
 + vss
 + stage1[42]
 + int1[43]
-+ inv
++ inv_tdc
 Xs1buf_43_1
 + vdd
 + vss
 + int1[43]
 + stage1[43]
-+ inv
++ inv_tdc
 Xs1buf_44_0
 + vdd
 + vss
 + stage1[43]
 + int1[44]
-+ inv
++ inv_tdc
 Xs1buf_44_1
 + vdd
 + vss
 + int1[44]
 + stage1[44]
-+ inv
++ inv_tdc
 Xs1buf_45_0
 + vdd
 + vss
 + stage1[44]
 + int1[45]
-+ inv
++ inv_tdc
 Xs1buf_45_1
 + vdd
 + vss
 + int1[45]
 + stage1[45]
-+ inv
++ inv_tdc
 Xs1buf_46_0
 + vdd
 + vss
 + stage1[45]
 + int1[46]
-+ inv
++ inv_tdc
 Xs1buf_46_1
 + vdd
 + vss
 + int1[46]
 + stage1[46]
-+ inv
++ inv_tdc
 Xs1buf_47_0
 + vdd
 + vss
 + stage1[46]
 + int1[47]
-+ inv
++ inv_tdc
 Xs1buf_47_1
 + vdd
 + vss
 + int1[47]
 + stage1[47]
-+ inv
++ inv_tdc
 Xs1buf_48_0
 + vdd
 + vss
 + stage1[47]
 + int1[48]
-+ inv
++ inv_tdc
 Xs1buf_48_1
 + vdd
 + vss
 + int1[48]
 + stage1[48]
-+ inv
++ inv_tdc
 Xs1buf_49_0
 + vdd
 + vss
 + stage1[48]
 + int1[49]
-+ inv
++ inv_tdc
 Xs1buf_49_1
 + vdd
 + vss
 + int1[49]
 + stage1[49]
-+ inv
++ inv_tdc
 Xs1buf_50_0
 + vdd
 + vss
 + stage1[49]
 + int1[50]
-+ inv
++ inv_tdc
 Xs1buf_50_1
 + vdd
 + vss
 + int1[50]
 + stage1[50]
-+ inv
++ inv_tdc
 Xs1buf_51_0
 + vdd
 + vss
 + stage1[50]
 + int1[51]
-+ inv
++ inv_tdc
 Xs1buf_51_1
 + vdd
 + vss
 + int1[51]
 + stage1[51]
-+ inv
++ inv_tdc
 Xs1buf_52_0
 + vdd
 + vss
 + stage1[51]
 + int1[52]
-+ inv
++ inv_tdc
 Xs1buf_52_1
 + vdd
 + vss
 + int1[52]
 + stage1[52]
-+ inv
++ inv_tdc
 Xs1buf_53_0
 + vdd
 + vss
 + stage1[52]
 + int1[53]
-+ inv
++ inv_tdc
 Xs1buf_53_1
 + vdd
 + vss
 + int1[53]
 + stage1[53]
-+ inv
++ inv_tdc
 Xs1buf_54_0
 + vdd
 + vss
 + stage1[53]
 + int1[54]
-+ inv
++ inv_tdc
 Xs1buf_54_1
 + vdd
 + vss
 + int1[54]
 + stage1[54]
-+ inv
++ inv_tdc
 Xs1buf_55_0
 + vdd
 + vss
 + stage1[54]
 + int1[55]
-+ inv
++ inv_tdc
 Xs1buf_55_1
 + vdd
 + vss
 + int1[55]
 + stage1[55]
-+ inv
++ inv_tdc
 Xs1buf_56_0
 + vdd
 + vss
 + stage1[55]
 + int1[56]
-+ inv
++ inv_tdc
 Xs1buf_56_1
 + vdd
 + vss
 + int1[56]
 + stage1[56]
-+ inv
++ inv_tdc
 Xs1buf_57_0
 + vdd
 + vss
 + stage1[56]
 + int1[57]
-+ inv
++ inv_tdc
 Xs1buf_57_1
 + vdd
 + vss
 + int1[57]
 + stage1[57]
-+ inv
++ inv_tdc
 Xs1buf_58_0
 + vdd
 + vss
 + stage1[57]
 + int1[58]
-+ inv
++ inv_tdc
 Xs1buf_58_1
 + vdd
 + vss
 + int1[58]
 + stage1[58]
-+ inv
++ inv_tdc
 Xs1buf_59_0
 + vdd
 + vss
 + stage1[58]
 + int1[59]
-+ inv
++ inv_tdc
 Xs1buf_59_1
 + vdd
 + vss
 + int1[59]
 + stage1[59]
-+ inv
++ inv_tdc
 Xs1buf_60_0
 + vdd
 + vss
 + stage1[59]
 + int1[60]
-+ inv
++ inv_tdc
 Xs1buf_60_1
 + vdd
 + vss
 + int1[60]
 + stage1[60]
-+ inv
++ inv_tdc
 Xs1buf_61_0
 + vdd
 + vss
 + stage1[60]
 + int1[61]
-+ inv
++ inv_tdc
 Xs1buf_61_1
 + vdd
 + vss
 + int1[61]
 + stage1[61]
-+ inv
++ inv_tdc
 Xs1buf_62_0
 + vdd
 + vss
 + stage1[61]
 + int1[62]
-+ inv
++ inv_tdc
 Xs1buf_62_1
 + vdd
 + vss
 + int1[62]
 + stage1[62]
-+ inv
++ inv_tdc
 Xs1buf_63_0
 + vdd
 + vss
 + stage1[62]
 + int1[63]
-+ inv
++ inv_tdc
 Xs1buf_63_1
 + vdd
 + vss
 + int1[63]
 + stage1[63]
-+ inv
++ inv_tdc
 Xs2_0_0
 + vdd
 + vss
 + stage1[0]
 + stage2[0]
-+ inv
++ inv_tdc
 Xs2_0_1
 + vdd
 + vss
 + stage1[0]
 + stage2[0]
-+ inv
++ inv_tdc
 Xs3_0
 + vdd
 + vss
 + stage2[0]
 + stage3[0]
-+ inv
++ inv_tdc
 Xs2_1_0
 + vdd
 + vss
 + stage1[0]
 + stage2[1]
-+ inv
++ inv_tdc
 Xs2_1_1
 + vdd
 + vss
 + stage1[1]
 + stage2[1]
-+ inv
++ inv_tdc
 Xs3_1
 + vdd
 + vss
 + stage2[1]
 + stage3[1]
-+ inv
++ inv_tdc
 Xs2_2_0
 + vdd
 + vss
 + stage1[1]
 + stage2[2]
-+ inv
++ inv_tdc
 Xs2_2_1
 + vdd
 + vss
 + stage1[1]
 + stage2[2]
-+ inv
++ inv_tdc
 Xs3_2
 + vdd
 + vss
 + stage2[2]
 + stage3[2]
-+ inv
++ inv_tdc
 Xs2_3_0
 + vdd
 + vss
 + stage1[1]
 + stage2[3]
-+ inv
++ inv_tdc
 Xs2_3_1
 + vdd
 + vss
 + stage1[2]
 + stage2[3]
-+ inv
++ inv_tdc
 Xs3_3
 + vdd
 + vss
 + stage2[3]
 + stage3[3]
-+ inv
++ inv_tdc
 Xs2_4_0
 + vdd
 + vss
 + stage1[2]
 + stage2[4]
-+ inv
++ inv_tdc
 Xs2_4_1
 + vdd
 + vss
 + stage1[2]
 + stage2[4]
-+ inv
++ inv_tdc
 Xs3_4
 + vdd
 + vss
 + stage2[4]
 + stage3[4]
-+ inv
++ inv_tdc
 Xs2_5_0
 + vdd
 + vss
 + stage1[2]
 + stage2[5]
-+ inv
++ inv_tdc
 Xs2_5_1
 + vdd
 + vss
 + stage1[3]
 + stage2[5]
-+ inv
++ inv_tdc
 Xs3_5
 + vdd
 + vss
 + stage2[5]
 + stage3[5]
-+ inv
++ inv_tdc
 Xs2_6_0
 + vdd
 + vss
 + stage1[3]
 + stage2[6]
-+ inv
++ inv_tdc
 Xs2_6_1
 + vdd
 + vss
 + stage1[3]
 + stage2[6]
-+ inv
++ inv_tdc
 Xs3_6
 + vdd
 + vss
 + stage2[6]
 + stage3[6]
-+ inv
++ inv_tdc
 Xs2_7_0
 + vdd
 + vss
 + stage1[3]
 + stage2[7]
-+ inv
++ inv_tdc
 Xs2_7_1
 + vdd
 + vss
 + stage1[4]
 + stage2[7]
-+ inv
++ inv_tdc
 Xs3_7
 + vdd
 + vss
 + stage2[7]
 + stage3[7]
-+ inv
++ inv_tdc
 Xs2_8_0
 + vdd
 + vss
 + stage1[4]
 + stage2[8]
-+ inv
++ inv_tdc
 Xs2_8_1
 + vdd
 + vss
 + stage1[4]
 + stage2[8]
-+ inv
++ inv_tdc
 Xs3_8
 + vdd
 + vss
 + stage2[8]
 + stage3[8]
-+ inv
++ inv_tdc
 Xs2_9_0
 + vdd
 + vss
 + stage1[4]
 + stage2[9]
-+ inv
++ inv_tdc
 Xs2_9_1
 + vdd
 + vss
 + stage1[5]
 + stage2[9]
-+ inv
++ inv_tdc
 Xs3_9
 + vdd
 + vss
 + stage2[9]
 + stage3[9]
-+ inv
++ inv_tdc
 Xs2_10_0
 + vdd
 + vss
 + stage1[5]
 + stage2[10]
-+ inv
++ inv_tdc
 Xs2_10_1
 + vdd
 + vss
 + stage1[5]
 + stage2[10]
-+ inv
++ inv_tdc
 Xs3_10
 + vdd
 + vss
 + stage2[10]
 + stage3[10]
-+ inv
++ inv_tdc
 Xs2_11_0
 + vdd
 + vss
 + stage1[5]
 + stage2[11]
-+ inv
++ inv_tdc
 Xs2_11_1
 + vdd
 + vss
 + stage1[6]
 + stage2[11]
-+ inv
++ inv_tdc
 Xs3_11
 + vdd
 + vss
 + stage2[11]
 + stage3[11]
-+ inv
++ inv_tdc
 Xs2_12_0
 + vdd
 + vss
 + stage1[6]
 + stage2[12]
-+ inv
++ inv_tdc
 Xs2_12_1
 + vdd
 + vss
 + stage1[6]
 + stage2[12]
-+ inv
++ inv_tdc
 Xs3_12
 + vdd
 + vss
 + stage2[12]
 + stage3[12]
-+ inv
++ inv_tdc
 Xs2_13_0
 + vdd
 + vss
 + stage1[6]
 + stage2[13]
-+ inv
++ inv_tdc
 Xs2_13_1
 + vdd
 + vss
 + stage1[7]
 + stage2[13]
-+ inv
++ inv_tdc
 Xs3_13
 + vdd
 + vss
 + stage2[13]
 + stage3[13]
-+ inv
++ inv_tdc
 Xs2_14_0
 + vdd
 + vss
 + stage1[7]
 + stage2[14]
-+ inv
++ inv_tdc
 Xs2_14_1
 + vdd
 + vss
 + stage1[7]
 + stage2[14]
-+ inv
++ inv_tdc
 Xs3_14
 + vdd
 + vss
 + stage2[14]
 + stage3[14]
-+ inv
++ inv_tdc
 Xs2_15_0
 + vdd
 + vss
 + stage1[7]
 + stage2[15]
-+ inv
++ inv_tdc
 Xs2_15_1
 + vdd
 + vss
 + stage1[8]
 + stage2[15]
-+ inv
++ inv_tdc
 Xs3_15
 + vdd
 + vss
 + stage2[15]
 + stage3[15]
-+ inv
++ inv_tdc
 Xs2_16_0
 + vdd
 + vss
 + stage1[8]
 + stage2[16]
-+ inv
++ inv_tdc
 Xs2_16_1
 + vdd
 + vss
 + stage1[8]
 + stage2[16]
-+ inv
++ inv_tdc
 Xs3_16
 + vdd
 + vss
 + stage2[16]
 + stage3[16]
-+ inv
++ inv_tdc
 Xs2_17_0
 + vdd
 + vss
 + stage1[8]
 + stage2[17]
-+ inv
++ inv_tdc
 Xs2_17_1
 + vdd
 + vss
 + stage1[9]
 + stage2[17]
-+ inv
++ inv_tdc
 Xs3_17
 + vdd
 + vss
 + stage2[17]
 + stage3[17]
-+ inv
++ inv_tdc
 Xs2_18_0
 + vdd
 + vss
 + stage1[9]
 + stage2[18]
-+ inv
++ inv_tdc
 Xs2_18_1
 + vdd
 + vss
 + stage1[9]
 + stage2[18]
-+ inv
++ inv_tdc
 Xs3_18
 + vdd
 + vss
 + stage2[18]
 + stage3[18]
-+ inv
++ inv_tdc
 Xs2_19_0
 + vdd
 + vss
 + stage1[9]
 + stage2[19]
-+ inv
++ inv_tdc
 Xs2_19_1
 + vdd
 + vss
 + stage1[10]
 + stage2[19]
-+ inv
++ inv_tdc
 Xs3_19
 + vdd
 + vss
 + stage2[19]
 + stage3[19]
-+ inv
++ inv_tdc
 Xs2_20_0
 + vdd
 + vss
 + stage1[10]
 + stage2[20]
-+ inv
++ inv_tdc
 Xs2_20_1
 + vdd
 + vss
 + stage1[10]
 + stage2[20]
-+ inv
++ inv_tdc
 Xs3_20
 + vdd
 + vss
 + stage2[20]
 + stage3[20]
-+ inv
++ inv_tdc
 Xs2_21_0
 + vdd
 + vss
 + stage1[10]
 + stage2[21]
-+ inv
++ inv_tdc
 Xs2_21_1
 + vdd
 + vss
 + stage1[11]
 + stage2[21]
-+ inv
++ inv_tdc
 Xs3_21
 + vdd
 + vss
 + stage2[21]
 + stage3[21]
-+ inv
++ inv_tdc
 Xs2_22_0
 + vdd
 + vss
 + stage1[11]
 + stage2[22]
-+ inv
++ inv_tdc
 Xs2_22_1
 + vdd
 + vss
 + stage1[11]
 + stage2[22]
-+ inv
++ inv_tdc
 Xs3_22
 + vdd
 + vss
 + stage2[22]
 + stage3[22]
-+ inv
++ inv_tdc
 Xs2_23_0
 + vdd
 + vss
 + stage1[11]
 + stage2[23]
-+ inv
++ inv_tdc
 Xs2_23_1
 + vdd
 + vss
 + stage1[12]
 + stage2[23]
-+ inv
++ inv_tdc
 Xs3_23
 + vdd
 + vss
 + stage2[23]
 + stage3[23]
-+ inv
++ inv_tdc
 Xs2_24_0
 + vdd
 + vss
 + stage1[12]
 + stage2[24]
-+ inv
++ inv_tdc
 Xs2_24_1
 + vdd
 + vss
 + stage1[12]
 + stage2[24]
-+ inv
++ inv_tdc
 Xs3_24
 + vdd
 + vss
 + stage2[24]
 + stage3[24]
-+ inv
++ inv_tdc
 Xs2_25_0
 + vdd
 + vss
 + stage1[12]
 + stage2[25]
-+ inv
++ inv_tdc
 Xs2_25_1
 + vdd
 + vss
 + stage1[13]
 + stage2[25]
-+ inv
++ inv_tdc
 Xs3_25
 + vdd
 + vss
 + stage2[25]
 + stage3[25]
-+ inv
++ inv_tdc
 Xs2_26_0
 + vdd
 + vss
 + stage1[13]
 + stage2[26]
-+ inv
++ inv_tdc
 Xs2_26_1
 + vdd
 + vss
 + stage1[13]
 + stage2[26]
-+ inv
++ inv_tdc
 Xs3_26
 + vdd
 + vss
 + stage2[26]
 + stage3[26]
-+ inv
++ inv_tdc
 Xs2_27_0
 + vdd
 + vss
 + stage1[13]
 + stage2[27]
-+ inv
++ inv_tdc
 Xs2_27_1
 + vdd
 + vss
 + stage1[14]
 + stage2[27]
-+ inv
++ inv_tdc
 Xs3_27
 + vdd
 + vss
 + stage2[27]
 + stage3[27]
-+ inv
++ inv_tdc
 Xs2_28_0
 + vdd
 + vss
 + stage1[14]
 + stage2[28]
-+ inv
++ inv_tdc
 Xs2_28_1
 + vdd
 + vss
 + stage1[14]
 + stage2[28]
-+ inv
++ inv_tdc
 Xs3_28
 + vdd
 + vss
 + stage2[28]
 + stage3[28]
-+ inv
++ inv_tdc
 Xs2_29_0
 + vdd
 + vss
 + stage1[14]
 + stage2[29]
-+ inv
++ inv_tdc
 Xs2_29_1
 + vdd
 + vss
 + stage1[15]
 + stage2[29]
-+ inv
++ inv_tdc
 Xs3_29
 + vdd
 + vss
 + stage2[29]
 + stage3[29]
-+ inv
++ inv_tdc
 Xs2_30_0
 + vdd
 + vss
 + stage1[15]
 + stage2[30]
-+ inv
++ inv_tdc
 Xs2_30_1
 + vdd
 + vss
 + stage1[15]
 + stage2[30]
-+ inv
++ inv_tdc
 Xs3_30
 + vdd
 + vss
 + stage2[30]
 + stage3[30]
-+ inv
++ inv_tdc
 Xs2_31_0
 + vdd
 + vss
 + stage1[15]
 + stage2[31]
-+ inv
++ inv_tdc
 Xs2_31_1
 + vdd
 + vss
 + stage1[16]
 + stage2[31]
-+ inv
++ inv_tdc
 Xs3_31
 + vdd
 + vss
 + stage2[31]
 + stage3[31]
-+ inv
++ inv_tdc
 Xs2_32_0
 + vdd
 + vss
 + stage1[16]
 + stage2[32]
-+ inv
++ inv_tdc
 Xs2_32_1
 + vdd
 + vss
 + stage1[16]
 + stage2[32]
-+ inv
++ inv_tdc
 Xs3_32
 + vdd
 + vss
 + stage2[32]
 + stage3[32]
-+ inv
++ inv_tdc
 Xs2_33_0
 + vdd
 + vss
 + stage1[16]
 + stage2[33]
-+ inv
++ inv_tdc
 Xs2_33_1
 + vdd
 + vss
 + stage1[17]
 + stage2[33]
-+ inv
++ inv_tdc
 Xs3_33
 + vdd
 + vss
 + stage2[33]
 + stage3[33]
-+ inv
++ inv_tdc
 Xs2_34_0
 + vdd
 + vss
 + stage1[17]
 + stage2[34]
-+ inv
++ inv_tdc
 Xs2_34_1
 + vdd
 + vss
 + stage1[17]
 + stage2[34]
-+ inv
++ inv_tdc
 Xs3_34
 + vdd
 + vss
 + stage2[34]
 + stage3[34]
-+ inv
++ inv_tdc
 Xs2_35_0
 + vdd
 + vss
 + stage1[17]
 + stage2[35]
-+ inv
++ inv_tdc
 Xs2_35_1
 + vdd
 + vss
 + stage1[18]
 + stage2[35]
-+ inv
++ inv_tdc
 Xs3_35
 + vdd
 + vss
 + stage2[35]
 + stage3[35]
-+ inv
++ inv_tdc
 Xs2_36_0
 + vdd
 + vss
 + stage1[18]
 + stage2[36]
-+ inv
++ inv_tdc
 Xs2_36_1
 + vdd
 + vss
 + stage1[18]
 + stage2[36]
-+ inv
++ inv_tdc
 Xs3_36
 + vdd
 + vss
 + stage2[36]
 + stage3[36]
-+ inv
++ inv_tdc
 Xs2_37_0
 + vdd
 + vss
 + stage1[18]
 + stage2[37]
-+ inv
++ inv_tdc
 Xs2_37_1
 + vdd
 + vss
 + stage1[19]
 + stage2[37]
-+ inv
++ inv_tdc
 Xs3_37
 + vdd
 + vss
 + stage2[37]
 + stage3[37]
-+ inv
++ inv_tdc
 Xs2_38_0
 + vdd
 + vss
 + stage1[19]
 + stage2[38]
-+ inv
++ inv_tdc
 Xs2_38_1
 + vdd
 + vss
 + stage1[19]
 + stage2[38]
-+ inv
++ inv_tdc
 Xs3_38
 + vdd
 + vss
 + stage2[38]
 + stage3[38]
-+ inv
++ inv_tdc
 Xs2_39_0
 + vdd
 + vss
 + stage1[19]
 + stage2[39]
-+ inv
++ inv_tdc
 Xs2_39_1
 + vdd
 + vss
 + stage1[20]
 + stage2[39]
-+ inv
++ inv_tdc
 Xs3_39
 + vdd
 + vss
 + stage2[39]
 + stage3[39]
-+ inv
++ inv_tdc
 Xs2_40_0
 + vdd
 + vss
 + stage1[20]
 + stage2[40]
-+ inv
++ inv_tdc
 Xs2_40_1
 + vdd
 + vss
 + stage1[20]
 + stage2[40]
-+ inv
++ inv_tdc
 Xs3_40
 + vdd
 + vss
 + stage2[40]
 + stage3[40]
-+ inv
++ inv_tdc
 Xs2_41_0
 + vdd
 + vss
 + stage1[20]
 + stage2[41]
-+ inv
++ inv_tdc
 Xs2_41_1
 + vdd
 + vss
 + stage1[21]
 + stage2[41]
-+ inv
++ inv_tdc
 Xs3_41
 + vdd
 + vss
 + stage2[41]
 + stage3[41]
-+ inv
++ inv_tdc
 Xs2_42_0
 + vdd
 + vss
 + stage1[21]
 + stage2[42]
-+ inv
++ inv_tdc
 Xs2_42_1
 + vdd
 + vss
 + stage1[21]
 + stage2[42]
-+ inv
++ inv_tdc
 Xs3_42
 + vdd
 + vss
 + stage2[42]
 + stage3[42]
-+ inv
++ inv_tdc
 Xs2_43_0
 + vdd
 + vss
 + stage1[21]
 + stage2[43]
-+ inv
++ inv_tdc
 Xs2_43_1
 + vdd
 + vss
 + stage1[22]
 + stage2[43]
-+ inv
++ inv_tdc
 Xs3_43
 + vdd
 + vss
 + stage2[43]
 + stage3[43]
-+ inv
++ inv_tdc
 Xs2_44_0
 + vdd
 + vss
 + stage1[22]
 + stage2[44]
-+ inv
++ inv_tdc
 Xs2_44_1
 + vdd
 + vss
 + stage1[22]
 + stage2[44]
-+ inv
++ inv_tdc
 Xs3_44
 + vdd
 + vss
 + stage2[44]
 + stage3[44]
-+ inv
++ inv_tdc
 Xs2_45_0
 + vdd
 + vss
 + stage1[22]
 + stage2[45]
-+ inv
++ inv_tdc
 Xs2_45_1
 + vdd
 + vss
 + stage1[23]
 + stage2[45]
-+ inv
++ inv_tdc
 Xs3_45
 + vdd
 + vss
 + stage2[45]
 + stage3[45]
-+ inv
++ inv_tdc
 Xs2_46_0
 + vdd
 + vss
 + stage1[23]
 + stage2[46]
-+ inv
++ inv_tdc
 Xs2_46_1
 + vdd
 + vss
 + stage1[23]
 + stage2[46]
-+ inv
++ inv_tdc
 Xs3_46
 + vdd
 + vss
 + stage2[46]
 + stage3[46]
-+ inv
++ inv_tdc
 Xs2_47_0
 + vdd
 + vss
 + stage1[23]
 + stage2[47]
-+ inv
++ inv_tdc
 Xs2_47_1
 + vdd
 + vss
 + stage1[24]
 + stage2[47]
-+ inv
++ inv_tdc
 Xs3_47
 + vdd
 + vss
 + stage2[47]
 + stage3[47]
-+ inv
++ inv_tdc
 Xs2_48_0
 + vdd
 + vss
 + stage1[24]
 + stage2[48]
-+ inv
++ inv_tdc
 Xs2_48_1
 + vdd
 + vss
 + stage1[24]
 + stage2[48]
-+ inv
++ inv_tdc
 Xs3_48
 + vdd
 + vss
 + stage2[48]
 + stage3[48]
-+ inv
++ inv_tdc
 Xs2_49_0
 + vdd
 + vss
 + stage1[24]
 + stage2[49]
-+ inv
++ inv_tdc
 Xs2_49_1
 + vdd
 + vss
 + stage1[25]
 + stage2[49]
-+ inv
++ inv_tdc
 Xs3_49
 + vdd
 + vss
 + stage2[49]
 + stage3[49]
-+ inv
++ inv_tdc
 Xs2_50_0
 + vdd
 + vss
 + stage1[25]
 + stage2[50]
-+ inv
++ inv_tdc
 Xs2_50_1
 + vdd
 + vss
 + stage1[25]
 + stage2[50]
-+ inv
++ inv_tdc
 Xs3_50
 + vdd
 + vss
 + stage2[50]
 + stage3[50]
-+ inv
++ inv_tdc
 Xs2_51_0
 + vdd
 + vss
 + stage1[25]
 + stage2[51]
-+ inv
++ inv_tdc
 Xs2_51_1
 + vdd
 + vss
 + stage1[26]
 + stage2[51]
-+ inv
++ inv_tdc
 Xs3_51
 + vdd
 + vss
 + stage2[51]
 + stage3[51]
-+ inv
++ inv_tdc
 Xs2_52_0
 + vdd
 + vss
 + stage1[26]
 + stage2[52]
-+ inv
++ inv_tdc
 Xs2_52_1
 + vdd
 + vss
 + stage1[26]
 + stage2[52]
-+ inv
++ inv_tdc
 Xs3_52
 + vdd
 + vss
 + stage2[52]
 + stage3[52]
-+ inv
++ inv_tdc
 Xs2_53_0
 + vdd
 + vss
 + stage1[26]
 + stage2[53]
-+ inv
++ inv_tdc
 Xs2_53_1
 + vdd
 + vss
 + stage1[27]
 + stage2[53]
-+ inv
++ inv_tdc
 Xs3_53
 + vdd
 + vss
 + stage2[53]
 + stage3[53]
-+ inv
++ inv_tdc
 Xs2_54_0
 + vdd
 + vss
 + stage1[27]
 + stage2[54]
-+ inv
++ inv_tdc
 Xs2_54_1
 + vdd
 + vss
 + stage1[27]
 + stage2[54]
-+ inv
++ inv_tdc
 Xs3_54
 + vdd
 + vss
 + stage2[54]
 + stage3[54]
-+ inv
++ inv_tdc
 Xs2_55_0
 + vdd
 + vss
 + stage1[27]
 + stage2[55]
-+ inv
++ inv_tdc
 Xs2_55_1
 + vdd
 + vss
 + stage1[28]
 + stage2[55]
-+ inv
++ inv_tdc
 Xs3_55
 + vdd
 + vss
 + stage2[55]
 + stage3[55]
-+ inv
++ inv_tdc
 Xs2_56_0
 + vdd
 + vss
 + stage1[28]
 + stage2[56]
-+ inv
++ inv_tdc
 Xs2_56_1
 + vdd
 + vss
 + stage1[28]
 + stage2[56]
-+ inv
++ inv_tdc
 Xs3_56
 + vdd
 + vss
 + stage2[56]
 + stage3[56]
-+ inv
++ inv_tdc
 Xs2_57_0
 + vdd
 + vss
 + stage1[28]
 + stage2[57]
-+ inv
++ inv_tdc
 Xs2_57_1
 + vdd
 + vss
 + stage1[29]
 + stage2[57]
-+ inv
++ inv_tdc
 Xs3_57
 + vdd
 + vss
 + stage2[57]
 + stage3[57]
-+ inv
++ inv_tdc
 Xs2_58_0
 + vdd
 + vss
 + stage1[29]
 + stage2[58]
-+ inv
++ inv_tdc
 Xs2_58_1
 + vdd
 + vss
 + stage1[29]
 + stage2[58]
-+ inv
++ inv_tdc
 Xs3_58
 + vdd
 + vss
 + stage2[58]
 + stage3[58]
-+ inv
++ inv_tdc
 Xs2_59_0
 + vdd
 + vss
 + stage1[29]
 + stage2[59]
-+ inv
++ inv_tdc
 Xs2_59_1
 + vdd
 + vss
 + stage1[30]
 + stage2[59]
-+ inv
++ inv_tdc
 Xs3_59
 + vdd
 + vss
 + stage2[59]
 + stage3[59]
-+ inv
++ inv_tdc
 Xs2_60_0
 + vdd
 + vss
 + stage1[30]
 + stage2[60]
-+ inv
++ inv_tdc
 Xs2_60_1
 + vdd
 + vss
 + stage1[30]
 + stage2[60]
-+ inv
++ inv_tdc
 Xs3_60
 + vdd
 + vss
 + stage2[60]
 + stage3[60]
-+ inv
++ inv_tdc
 Xs2_61_0
 + vdd
 + vss
 + stage1[30]
 + stage2[61]
-+ inv
++ inv_tdc
 Xs2_61_1
 + vdd
 + vss
 + stage1[31]
 + stage2[61]
-+ inv
++ inv_tdc
 Xs3_61
 + vdd
 + vss
 + stage2[61]
 + stage3[61]
-+ inv
++ inv_tdc
 Xs2_62_0
 + vdd
 + vss
 + stage1[31]
 + stage2[62]
-+ inv
++ inv_tdc
 Xs2_62_1
 + vdd
 + vss
 + stage1[31]
 + stage2[62]
-+ inv
++ inv_tdc
 Xs3_62
 + vdd
 + vss
 + stage2[62]
 + stage3[62]
-+ inv
++ inv_tdc
 Xs2_63_0
 + vdd
 + vss
 + stage1[31]
 + stage2[63]
-+ inv
++ inv_tdc
 Xs2_63_1
 + vdd
 + vss
 + stage1[32]
 + stage2[63]
-+ inv
++ inv_tdc
 Xs3_63
 + vdd
 + vss
 + stage2[63]
 + stage3[63]
-+ inv
++ inv_tdc
 Xs2_64_0
 + vdd
 + vss
 + stage1[32]
 + stage2[64]
-+ inv
++ inv_tdc
 Xs2_64_1
 + vdd
 + vss
 + stage1[32]
 + stage2[64]
-+ inv
++ inv_tdc
 Xs3_64
 + vdd
 + vss
 + stage2[64]
 + stage3[64]
-+ inv
++ inv_tdc
 Xs2_65_0
 + vdd
 + vss
 + stage1[32]
 + stage2[65]
-+ inv
++ inv_tdc
 Xs2_65_1
 + vdd
 + vss
 + stage1[33]
 + stage2[65]
-+ inv
++ inv_tdc
 Xs3_65
 + vdd
 + vss
 + stage2[65]
 + stage3[65]
-+ inv
++ inv_tdc
 Xs2_66_0
 + vdd
 + vss
 + stage1[33]
 + stage2[66]
-+ inv
++ inv_tdc
 Xs2_66_1
 + vdd
 + vss
 + stage1[33]
 + stage2[66]
-+ inv
++ inv_tdc
 Xs3_66
 + vdd
 + vss
 + stage2[66]
 + stage3[66]
-+ inv
++ inv_tdc
 Xs2_67_0
 + vdd
 + vss
 + stage1[33]
 + stage2[67]
-+ inv
++ inv_tdc
 Xs2_67_1
 + vdd
 + vss
 + stage1[34]
 + stage2[67]
-+ inv
++ inv_tdc
 Xs3_67
 + vdd
 + vss
 + stage2[67]
 + stage3[67]
-+ inv
++ inv_tdc
 Xs2_68_0
 + vdd
 + vss
 + stage1[34]
 + stage2[68]
-+ inv
++ inv_tdc
 Xs2_68_1
 + vdd
 + vss
 + stage1[34]
 + stage2[68]
-+ inv
++ inv_tdc
 Xs3_68
 + vdd
 + vss
 + stage2[68]
 + stage3[68]
-+ inv
++ inv_tdc
 Xs2_69_0
 + vdd
 + vss
 + stage1[34]
 + stage2[69]
-+ inv
++ inv_tdc
 Xs2_69_1
 + vdd
 + vss
 + stage1[35]
 + stage2[69]
-+ inv
++ inv_tdc
 Xs3_69
 + vdd
 + vss
 + stage2[69]
 + stage3[69]
-+ inv
++ inv_tdc
 Xs2_70_0
 + vdd
 + vss
 + stage1[35]
 + stage2[70]
-+ inv
++ inv_tdc
 Xs2_70_1
 + vdd
 + vss
 + stage1[35]
 + stage2[70]
-+ inv
++ inv_tdc
 Xs3_70
 + vdd
 + vss
 + stage2[70]
 + stage3[70]
-+ inv
++ inv_tdc
 Xs2_71_0
 + vdd
 + vss
 + stage1[35]
 + stage2[71]
-+ inv
++ inv_tdc
 Xs2_71_1
 + vdd
 + vss
 + stage1[36]
 + stage2[71]
-+ inv
++ inv_tdc
 Xs3_71
 + vdd
 + vss
 + stage2[71]
 + stage3[71]
-+ inv
++ inv_tdc
 Xs2_72_0
 + vdd
 + vss
 + stage1[36]
 + stage2[72]
-+ inv
++ inv_tdc
 Xs2_72_1
 + vdd
 + vss
 + stage1[36]
 + stage2[72]
-+ inv
++ inv_tdc
 Xs3_72
 + vdd
 + vss
 + stage2[72]
 + stage3[72]
-+ inv
++ inv_tdc
 Xs2_73_0
 + vdd
 + vss
 + stage1[36]
 + stage2[73]
-+ inv
++ inv_tdc
 Xs2_73_1
 + vdd
 + vss
 + stage1[37]
 + stage2[73]
-+ inv
++ inv_tdc
 Xs3_73
 + vdd
 + vss
 + stage2[73]
 + stage3[73]
-+ inv
++ inv_tdc
 Xs2_74_0
 + vdd
 + vss
 + stage1[37]
 + stage2[74]
-+ inv
++ inv_tdc
 Xs2_74_1
 + vdd
 + vss
 + stage1[37]
 + stage2[74]
-+ inv
++ inv_tdc
 Xs3_74
 + vdd
 + vss
 + stage2[74]
 + stage3[74]
-+ inv
++ inv_tdc
 Xs2_75_0
 + vdd
 + vss
 + stage1[37]
 + stage2[75]
-+ inv
++ inv_tdc
 Xs2_75_1
 + vdd
 + vss
 + stage1[38]
 + stage2[75]
-+ inv
++ inv_tdc
 Xs3_75
 + vdd
 + vss
 + stage2[75]
 + stage3[75]
-+ inv
++ inv_tdc
 Xs2_76_0
 + vdd
 + vss
 + stage1[38]
 + stage2[76]
-+ inv
++ inv_tdc
 Xs2_76_1
 + vdd
 + vss
 + stage1[38]
 + stage2[76]
-+ inv
++ inv_tdc
 Xs3_76
 + vdd
 + vss
 + stage2[76]
 + stage3[76]
-+ inv
++ inv_tdc
 Xs2_77_0
 + vdd
 + vss
 + stage1[38]
 + stage2[77]
-+ inv
++ inv_tdc
 Xs2_77_1
 + vdd
 + vss
 + stage1[39]
 + stage2[77]
-+ inv
++ inv_tdc
 Xs3_77
 + vdd
 + vss
 + stage2[77]
 + stage3[77]
-+ inv
++ inv_tdc
 Xs2_78_0
 + vdd
 + vss
 + stage1[39]
 + stage2[78]
-+ inv
++ inv_tdc
 Xs2_78_1
 + vdd
 + vss
 + stage1[39]
 + stage2[78]
-+ inv
++ inv_tdc
 Xs3_78
 + vdd
 + vss
 + stage2[78]
 + stage3[78]
-+ inv
++ inv_tdc
 Xs2_79_0
 + vdd
 + vss
 + stage1[39]
 + stage2[79]
-+ inv
++ inv_tdc
 Xs2_79_1
 + vdd
 + vss
 + stage1[40]
 + stage2[79]
-+ inv
++ inv_tdc
 Xs3_79
 + vdd
 + vss
 + stage2[79]
 + stage3[79]
-+ inv
++ inv_tdc
 Xs2_80_0
 + vdd
 + vss
 + stage1[40]
 + stage2[80]
-+ inv
++ inv_tdc
 Xs2_80_1
 + vdd
 + vss
 + stage1[40]
 + stage2[80]
-+ inv
++ inv_tdc
 Xs3_80
 + vdd
 + vss
 + stage2[80]
 + stage3[80]
-+ inv
++ inv_tdc
 Xs2_81_0
 + vdd
 + vss
 + stage1[40]
 + stage2[81]
-+ inv
++ inv_tdc
 Xs2_81_1
 + vdd
 + vss
 + stage1[41]
 + stage2[81]
-+ inv
++ inv_tdc
 Xs3_81
 + vdd
 + vss
 + stage2[81]
 + stage3[81]
-+ inv
++ inv_tdc
 Xs2_82_0
 + vdd
 + vss
 + stage1[41]
 + stage2[82]
-+ inv
++ inv_tdc
 Xs2_82_1
 + vdd
 + vss
 + stage1[41]
 + stage2[82]
-+ inv
++ inv_tdc
 Xs3_82
 + vdd
 + vss
 + stage2[82]
 + stage3[82]
-+ inv
++ inv_tdc
 Xs2_83_0
 + vdd
 + vss
 + stage1[41]
 + stage2[83]
-+ inv
++ inv_tdc
 Xs2_83_1
 + vdd
 + vss
 + stage1[42]
 + stage2[83]
-+ inv
++ inv_tdc
 Xs3_83
 + vdd
 + vss
 + stage2[83]
 + stage3[83]
-+ inv
++ inv_tdc
 Xs2_84_0
 + vdd
 + vss
 + stage1[42]
 + stage2[84]
-+ inv
++ inv_tdc
 Xs2_84_1
 + vdd
 + vss
 + stage1[42]
 + stage2[84]
-+ inv
++ inv_tdc
 Xs3_84
 + vdd
 + vss
 + stage2[84]
 + stage3[84]
-+ inv
++ inv_tdc
 Xs2_85_0
 + vdd
 + vss
 + stage1[42]
 + stage2[85]
-+ inv
++ inv_tdc
 Xs2_85_1
 + vdd
 + vss
 + stage1[43]
 + stage2[85]
-+ inv
++ inv_tdc
 Xs3_85
 + vdd
 + vss
 + stage2[85]
 + stage3[85]
-+ inv
++ inv_tdc
 Xs2_86_0
 + vdd
 + vss
 + stage1[43]
 + stage2[86]
-+ inv
++ inv_tdc
 Xs2_86_1
 + vdd
 + vss
 + stage1[43]
 + stage2[86]
-+ inv
++ inv_tdc
 Xs3_86
 + vdd
 + vss
 + stage2[86]
 + stage3[86]
-+ inv
++ inv_tdc
 Xs2_87_0
 + vdd
 + vss
 + stage1[43]
 + stage2[87]
-+ inv
++ inv_tdc
 Xs2_87_1
 + vdd
 + vss
 + stage1[44]
 + stage2[87]
-+ inv
++ inv_tdc
 Xs3_87
 + vdd
 + vss
 + stage2[87]
 + stage3[87]
-+ inv
++ inv_tdc
 Xs2_88_0
 + vdd
 + vss
 + stage1[44]
 + stage2[88]
-+ inv
++ inv_tdc
 Xs2_88_1
 + vdd
 + vss
 + stage1[44]
 + stage2[88]
-+ inv
++ inv_tdc
 Xs3_88
 + vdd
 + vss
 + stage2[88]
 + stage3[88]
-+ inv
++ inv_tdc
 Xs2_89_0
 + vdd
 + vss
 + stage1[44]
 + stage2[89]
-+ inv
++ inv_tdc
 Xs2_89_1
 + vdd
 + vss
 + stage1[45]
 + stage2[89]
-+ inv
++ inv_tdc
 Xs3_89
 + vdd
 + vss
 + stage2[89]
 + stage3[89]
-+ inv
++ inv_tdc
 Xs2_90_0
 + vdd
 + vss
 + stage1[45]
 + stage2[90]
-+ inv
++ inv_tdc
 Xs2_90_1
 + vdd
 + vss
 + stage1[45]
 + stage2[90]
-+ inv
++ inv_tdc
 Xs3_90
 + vdd
 + vss
 + stage2[90]
 + stage3[90]
-+ inv
++ inv_tdc
 Xs2_91_0
 + vdd
 + vss
 + stage1[45]
 + stage2[91]
-+ inv
++ inv_tdc
 Xs2_91_1
 + vdd
 + vss
 + stage1[46]
 + stage2[91]
-+ inv
++ inv_tdc
 Xs3_91
 + vdd
 + vss
 + stage2[91]
 + stage3[91]
-+ inv
++ inv_tdc
 Xs2_92_0
 + vdd
 + vss
 + stage1[46]
 + stage2[92]
-+ inv
++ inv_tdc
 Xs2_92_1
 + vdd
 + vss
 + stage1[46]
 + stage2[92]
-+ inv
++ inv_tdc
 Xs3_92
 + vdd
 + vss
 + stage2[92]
 + stage3[92]
-+ inv
++ inv_tdc
 Xs2_93_0
 + vdd
 + vss
 + stage1[46]
 + stage2[93]
-+ inv
++ inv_tdc
 Xs2_93_1
 + vdd
 + vss
 + stage1[47]
 + stage2[93]
-+ inv
++ inv_tdc
 Xs3_93
 + vdd
 + vss
 + stage2[93]
 + stage3[93]
-+ inv
++ inv_tdc
 Xs2_94_0
 + vdd
 + vss
 + stage1[47]
 + stage2[94]
-+ inv
++ inv_tdc
 Xs2_94_1
 + vdd
 + vss
 + stage1[47]
 + stage2[94]
-+ inv
++ inv_tdc
 Xs3_94
 + vdd
 + vss
 + stage2[94]
 + stage3[94]
-+ inv
++ inv_tdc
 Xs2_95_0
 + vdd
 + vss
 + stage1[47]
 + stage2[95]
-+ inv
++ inv_tdc
 Xs2_95_1
 + vdd
 + vss
 + stage1[48]
 + stage2[95]
-+ inv
++ inv_tdc
 Xs3_95
 + vdd
 + vss
 + stage2[95]
 + stage3[95]
-+ inv
++ inv_tdc
 Xs2_96_0
 + vdd
 + vss
 + stage1[48]
 + stage2[96]
-+ inv
++ inv_tdc
 Xs2_96_1
 + vdd
 + vss
 + stage1[48]
 + stage2[96]
-+ inv
++ inv_tdc
 Xs3_96
 + vdd
 + vss
 + stage2[96]
 + stage3[96]
-+ inv
++ inv_tdc
 Xs2_97_0
 + vdd
 + vss
 + stage1[48]
 + stage2[97]
-+ inv
++ inv_tdc
 Xs2_97_1
 + vdd
 + vss
 + stage1[49]
 + stage2[97]
-+ inv
++ inv_tdc
 Xs3_97
 + vdd
 + vss
 + stage2[97]
 + stage3[97]
-+ inv
++ inv_tdc
 Xs2_98_0
 + vdd
 + vss
 + stage1[49]
 + stage2[98]
-+ inv
++ inv_tdc
 Xs2_98_1
 + vdd
 + vss
 + stage1[49]
 + stage2[98]
-+ inv
++ inv_tdc
 Xs3_98
 + vdd
 + vss
 + stage2[98]
 + stage3[98]
-+ inv
++ inv_tdc
 Xs2_99_0
 + vdd
 + vss
 + stage1[49]
 + stage2[99]
-+ inv
++ inv_tdc
 Xs2_99_1
 + vdd
 + vss
 + stage1[50]
 + stage2[99]
-+ inv
++ inv_tdc
 Xs3_99
 + vdd
 + vss
 + stage2[99]
 + stage3[99]
-+ inv
++ inv_tdc
 Xs2_100_0
 + vdd
 + vss
 + stage1[50]
 + stage2[100]
-+ inv
++ inv_tdc
 Xs2_100_1
 + vdd
 + vss
 + stage1[50]
 + stage2[100]
-+ inv
++ inv_tdc
 Xs3_100
 + vdd
 + vss
 + stage2[100]
 + stage3[100]
-+ inv
++ inv_tdc
 Xs2_101_0
 + vdd
 + vss
 + stage1[50]
 + stage2[101]
-+ inv
++ inv_tdc
 Xs2_101_1
 + vdd
 + vss
 + stage1[51]
 + stage2[101]
-+ inv
++ inv_tdc
 Xs3_101
 + vdd
 + vss
 + stage2[101]
 + stage3[101]
-+ inv
++ inv_tdc
 Xs2_102_0
 + vdd
 + vss
 + stage1[51]
 + stage2[102]
-+ inv
++ inv_tdc
 Xs2_102_1
 + vdd
 + vss
 + stage1[51]
 + stage2[102]
-+ inv
++ inv_tdc
 Xs3_102
 + vdd
 + vss
 + stage2[102]
 + stage3[102]
-+ inv
++ inv_tdc
 Xs2_103_0
 + vdd
 + vss
 + stage1[51]
 + stage2[103]
-+ inv
++ inv_tdc
 Xs2_103_1
 + vdd
 + vss
 + stage1[52]
 + stage2[103]
-+ inv
++ inv_tdc
 Xs3_103
 + vdd
 + vss
 + stage2[103]
 + stage3[103]
-+ inv
++ inv_tdc
 Xs2_104_0
 + vdd
 + vss
 + stage1[52]
 + stage2[104]
-+ inv
++ inv_tdc
 Xs2_104_1
 + vdd
 + vss
 + stage1[52]
 + stage2[104]
-+ inv
++ inv_tdc
 Xs3_104
 + vdd
 + vss
 + stage2[104]
 + stage3[104]
-+ inv
++ inv_tdc
 Xs2_105_0
 + vdd
 + vss
 + stage1[52]
 + stage2[105]
-+ inv
++ inv_tdc
 Xs2_105_1
 + vdd
 + vss
 + stage1[53]
 + stage2[105]
-+ inv
++ inv_tdc
 Xs3_105
 + vdd
 + vss
 + stage2[105]
 + stage3[105]
-+ inv
++ inv_tdc
 Xs2_106_0
 + vdd
 + vss
 + stage1[53]
 + stage2[106]
-+ inv
++ inv_tdc
 Xs2_106_1
 + vdd
 + vss
 + stage1[53]
 + stage2[106]
-+ inv
++ inv_tdc
 Xs3_106
 + vdd
 + vss
 + stage2[106]
 + stage3[106]
-+ inv
++ inv_tdc
 Xs2_107_0
 + vdd
 + vss
 + stage1[53]
 + stage2[107]
-+ inv
++ inv_tdc
 Xs2_107_1
 + vdd
 + vss
 + stage1[54]
 + stage2[107]
-+ inv
++ inv_tdc
 Xs3_107
 + vdd
 + vss
 + stage2[107]
 + stage3[107]
-+ inv
++ inv_tdc
 Xs2_108_0
 + vdd
 + vss
 + stage1[54]
 + stage2[108]
-+ inv
++ inv_tdc
 Xs2_108_1
 + vdd
 + vss
 + stage1[54]
 + stage2[108]
-+ inv
++ inv_tdc
 Xs3_108
 + vdd
 + vss
 + stage2[108]
 + stage3[108]
-+ inv
++ inv_tdc
 Xs2_109_0
 + vdd
 + vss
 + stage1[54]
 + stage2[109]
-+ inv
++ inv_tdc
 Xs2_109_1
 + vdd
 + vss
 + stage1[55]
 + stage2[109]
-+ inv
++ inv_tdc
 Xs3_109
 + vdd
 + vss
 + stage2[109]
 + stage3[109]
-+ inv
++ inv_tdc
 Xs2_110_0
 + vdd
 + vss
 + stage1[55]
 + stage2[110]
-+ inv
++ inv_tdc
 Xs2_110_1
 + vdd
 + vss
 + stage1[55]
 + stage2[110]
-+ inv
++ inv_tdc
 Xs3_110
 + vdd
 + vss
 + stage2[110]
 + stage3[110]
-+ inv
++ inv_tdc
 Xs2_111_0
 + vdd
 + vss
 + stage1[55]
 + stage2[111]
-+ inv
++ inv_tdc
 Xs2_111_1
 + vdd
 + vss
 + stage1[56]
 + stage2[111]
-+ inv
++ inv_tdc
 Xs3_111
 + vdd
 + vss
 + stage2[111]
 + stage3[111]
-+ inv
++ inv_tdc
 Xs2_112_0
 + vdd
 + vss
 + stage1[56]
 + stage2[112]
-+ inv
++ inv_tdc
 Xs2_112_1
 + vdd
 + vss
 + stage1[56]
 + stage2[112]
-+ inv
++ inv_tdc
 Xs3_112
 + vdd
 + vss
 + stage2[112]
 + stage3[112]
-+ inv
++ inv_tdc
 Xs2_113_0
 + vdd
 + vss
 + stage1[56]
 + stage2[113]
-+ inv
++ inv_tdc
 Xs2_113_1
 + vdd
 + vss
 + stage1[57]
 + stage2[113]
-+ inv
++ inv_tdc
 Xs3_113
 + vdd
 + vss
 + stage2[113]
 + stage3[113]
-+ inv
++ inv_tdc
 Xs2_114_0
 + vdd
 + vss
 + stage1[57]
 + stage2[114]
-+ inv
++ inv_tdc
 Xs2_114_1
 + vdd
 + vss
 + stage1[57]
 + stage2[114]
-+ inv
++ inv_tdc
 Xs3_114
 + vdd
 + vss
 + stage2[114]
 + stage3[114]
-+ inv
++ inv_tdc
 Xs2_115_0
 + vdd
 + vss
 + stage1[57]
 + stage2[115]
-+ inv
++ inv_tdc
 Xs2_115_1
 + vdd
 + vss
 + stage1[58]
 + stage2[115]
-+ inv
++ inv_tdc
 Xs3_115
 + vdd
 + vss
 + stage2[115]
 + stage3[115]
-+ inv
++ inv_tdc
 Xs2_116_0
 + vdd
 + vss
 + stage1[58]
 + stage2[116]
-+ inv
++ inv_tdc
 Xs2_116_1
 + vdd
 + vss
 + stage1[58]
 + stage2[116]
-+ inv
++ inv_tdc
 Xs3_116
 + vdd
 + vss
 + stage2[116]
 + stage3[116]
-+ inv
++ inv_tdc
 Xs2_117_0
 + vdd
 + vss
 + stage1[58]
 + stage2[117]
-+ inv
++ inv_tdc
 Xs2_117_1
 + vdd
 + vss
 + stage1[59]
 + stage2[117]
-+ inv
++ inv_tdc
 Xs3_117
 + vdd
 + vss
 + stage2[117]
 + stage3[117]
-+ inv
++ inv_tdc
 Xs2_118_0
 + vdd
 + vss
 + stage1[59]
 + stage2[118]
-+ inv
++ inv_tdc
 Xs2_118_1
 + vdd
 + vss
 + stage1[59]
 + stage2[118]
-+ inv
++ inv_tdc
 Xs3_118
 + vdd
 + vss
 + stage2[118]
 + stage3[118]
-+ inv
++ inv_tdc
 Xs2_119_0
 + vdd
 + vss
 + stage1[59]
 + stage2[119]
-+ inv
++ inv_tdc
 Xs2_119_1
 + vdd
 + vss
 + stage1[60]
 + stage2[119]
-+ inv
++ inv_tdc
 Xs3_119
 + vdd
 + vss
 + stage2[119]
 + stage3[119]
-+ inv
++ inv_tdc
 Xs2_120_0
 + vdd
 + vss
 + stage1[60]
 + stage2[120]
-+ inv
++ inv_tdc
 Xs2_120_1
 + vdd
 + vss
 + stage1[60]
 + stage2[120]
-+ inv
++ inv_tdc
 Xs3_120
 + vdd
 + vss
 + stage2[120]
 + stage3[120]
-+ inv
++ inv_tdc
 Xs2_121_0
 + vdd
 + vss
 + stage1[60]
 + stage2[121]
-+ inv
++ inv_tdc
 Xs2_121_1
 + vdd
 + vss
 + stage1[61]
 + stage2[121]
-+ inv
++ inv_tdc
 Xs3_121
 + vdd
 + vss
 + stage2[121]
 + stage3[121]
-+ inv
++ inv_tdc
 Xs2_122_0
 + vdd
 + vss
 + stage1[61]
 + stage2[122]
-+ inv
++ inv_tdc
 Xs2_122_1
 + vdd
 + vss
 + stage1[61]
 + stage2[122]
-+ inv
++ inv_tdc
 Xs3_122
 + vdd
 + vss
 + stage2[122]
 + stage3[122]
-+ inv
++ inv_tdc
 Xs2_123_0
 + vdd
 + vss
 + stage1[61]
 + stage2[123]
-+ inv
++ inv_tdc
 Xs2_123_1
 + vdd
 + vss
 + stage1[62]
 + stage2[123]
-+ inv
++ inv_tdc
 Xs3_123
 + vdd
 + vss
 + stage2[123]
 + stage3[123]
-+ inv
++ inv_tdc
 Xs2_124_0
 + vdd
 + vss
 + stage1[62]
 + stage2[124]
-+ inv
++ inv_tdc
 Xs2_124_1
 + vdd
 + vss
 + stage1[62]
 + stage2[124]
-+ inv
++ inv_tdc
 Xs3_124
 + vdd
 + vss
 + stage2[124]
 + stage3[124]
-+ inv
++ inv_tdc
 Xs2_125_0
 + vdd
 + vss
 + stage1[62]
 + stage2[125]
-+ inv
++ inv_tdc
 Xs2_125_1
 + vdd
 + vss
 + stage1[63]
 + stage2[125]
-+ inv
++ inv_tdc
 Xs3_125
 + vdd
 + vss
 + stage2[125]
 + stage3[125]
-+ inv
++ inv_tdc
 Xs2_126_0
 + vdd
 + vss
 + stage1[63]
 + stage2[126]
-+ inv
++ inv_tdc
 Xs2_126_1
 + vdd
 + vss
 + stage1[63]
 + stage2[126]
-+ inv
++ inv_tdc
 Xs3_126
 + vdd
 + vss
 + stage2[126]
 + stage3[126]
-+ inv
++ inv_tdc
 Xs2_dummy_0
 + vdd
 + vss
 + stage1[0]
 + tmp[0]
-+ inv
++ inv_tdc
 Xs2_dummy_1
 + vdd
 + vss
 + stage1[63]
 + tmp[1]
-+ inv
++ inv_tdc
 Xs4_dummy_0
 + vdd
 + vss
 + stage3[0]
 + tmp[2]
-+ inv
++ inv_tdc
 Xs4_dummy_1
 + vdd
 + vss
 + stage3[126]
 + tmp[3]
-+ inv
++ inv_tdc
 Xs4_dummy_2
 + vdd
 + vss
 + stage3[126]
 + tmp[4]
-+ inv
++ inv_tdc
 Xs4_dummy_3
 + vdd
 + vss
 + stage3[126]
 + tmp[5]
-+ inv
++ inv_tdc
 Xs4_0_0
 + vdd
 + vss
 + stage3[0]
 + stage4[0]
-+ inv
++ inv_tdc
 Xs4_0_1
 + vdd
 + vss
 + stage3[0]
 + stage4[0]
-+ inv
++ inv_tdc
 Xs5_0
 + vdd
 + vss
 + stage4[0]
 + stage5[0]
-+ inv
++ inv_tdc
 Xff_0
 + b
 + stage5[0]
@@ -3386,19 +3386,19 @@ Xs4_1_0
 + vss
 + stage3[0]
 + stage4[1]
-+ inv
++ inv_tdc
 Xs4_1_1
 + vdd
 + vss
 + stage3[1]
 + stage4[1]
-+ inv
++ inv_tdc
 Xs5_1
 + vdd
 + vss
 + stage4[1]
 + stage5[1]
-+ inv
++ inv_tdc
 Xff_1
 + b
 + stage5[1]
@@ -3414,19 +3414,19 @@ Xs4_2_0
 + vss
 + stage3[1]
 + stage4[2]
-+ inv
++ inv_tdc
 Xs4_2_1
 + vdd
 + vss
 + stage3[1]
 + stage4[2]
-+ inv
++ inv_tdc
 Xs5_2
 + vdd
 + vss
 + stage4[2]
 + stage5[2]
-+ inv
++ inv_tdc
 Xff_2
 + b
 + stage5[2]
@@ -3442,19 +3442,19 @@ Xs4_3_0
 + vss
 + stage3[1]
 + stage4[3]
-+ inv
++ inv_tdc
 Xs4_3_1
 + vdd
 + vss
 + stage3[2]
 + stage4[3]
-+ inv
++ inv_tdc
 Xs5_3
 + vdd
 + vss
 + stage4[3]
 + stage5[3]
-+ inv
++ inv_tdc
 Xff_3
 + b
 + stage5[3]
@@ -3470,19 +3470,19 @@ Xs4_4_0
 + vss
 + stage3[2]
 + stage4[4]
-+ inv
++ inv_tdc
 Xs4_4_1
 + vdd
 + vss
 + stage3[2]
 + stage4[4]
-+ inv
++ inv_tdc
 Xs5_4
 + vdd
 + vss
 + stage4[4]
 + stage5[4]
-+ inv
++ inv_tdc
 Xff_4
 + b
 + stage5[4]
@@ -3498,19 +3498,19 @@ Xs4_5_0
 + vss
 + stage3[2]
 + stage4[5]
-+ inv
++ inv_tdc
 Xs4_5_1
 + vdd
 + vss
 + stage3[3]
 + stage4[5]
-+ inv
++ inv_tdc
 Xs5_5
 + vdd
 + vss
 + stage4[5]
 + stage5[5]
-+ inv
++ inv_tdc
 Xff_5
 + b
 + stage5[5]
@@ -3526,19 +3526,19 @@ Xs4_6_0
 + vss
 + stage3[3]
 + stage4[6]
-+ inv
++ inv_tdc
 Xs4_6_1
 + vdd
 + vss
 + stage3[3]
 + stage4[6]
-+ inv
++ inv_tdc
 Xs5_6
 + vdd
 + vss
 + stage4[6]
 + stage5[6]
-+ inv
++ inv_tdc
 Xff_6
 + b
 + stage5[6]
@@ -3554,19 +3554,19 @@ Xs4_7_0
 + vss
 + stage3[3]
 + stage4[7]
-+ inv
++ inv_tdc
 Xs4_7_1
 + vdd
 + vss
 + stage3[4]
 + stage4[7]
-+ inv
++ inv_tdc
 Xs5_7
 + vdd
 + vss
 + stage4[7]
 + stage5[7]
-+ inv
++ inv_tdc
 Xff_7
 + b
 + stage5[7]
@@ -3582,19 +3582,19 @@ Xs4_8_0
 + vss
 + stage3[4]
 + stage4[8]
-+ inv
++ inv_tdc
 Xs4_8_1
 + vdd
 + vss
 + stage3[4]
 + stage4[8]
-+ inv
++ inv_tdc
 Xs5_8
 + vdd
 + vss
 + stage4[8]
 + stage5[8]
-+ inv
++ inv_tdc
 Xff_8
 + b
 + stage5[8]
@@ -3610,19 +3610,19 @@ Xs4_9_0
 + vss
 + stage3[4]
 + stage4[9]
-+ inv
++ inv_tdc
 Xs4_9_1
 + vdd
 + vss
 + stage3[5]
 + stage4[9]
-+ inv
++ inv_tdc
 Xs5_9
 + vdd
 + vss
 + stage4[9]
 + stage5[9]
-+ inv
++ inv_tdc
 Xff_9
 + b
 + stage5[9]
@@ -3638,19 +3638,19 @@ Xs4_10_0
 + vss
 + stage3[5]
 + stage4[10]
-+ inv
++ inv_tdc
 Xs4_10_1
 + vdd
 + vss
 + stage3[5]
 + stage4[10]
-+ inv
++ inv_tdc
 Xs5_10
 + vdd
 + vss
 + stage4[10]
 + stage5[10]
-+ inv
++ inv_tdc
 Xff_10
 + b
 + stage5[10]
@@ -3666,19 +3666,19 @@ Xs4_11_0
 + vss
 + stage3[5]
 + stage4[11]
-+ inv
++ inv_tdc
 Xs4_11_1
 + vdd
 + vss
 + stage3[6]
 + stage4[11]
-+ inv
++ inv_tdc
 Xs5_11
 + vdd
 + vss
 + stage4[11]
 + stage5[11]
-+ inv
++ inv_tdc
 Xff_11
 + b
 + stage5[11]
@@ -3694,19 +3694,19 @@ Xs4_12_0
 + vss
 + stage3[6]
 + stage4[12]
-+ inv
++ inv_tdc
 Xs4_12_1
 + vdd
 + vss
 + stage3[6]
 + stage4[12]
-+ inv
++ inv_tdc
 Xs5_12
 + vdd
 + vss
 + stage4[12]
 + stage5[12]
-+ inv
++ inv_tdc
 Xff_12
 + b
 + stage5[12]
@@ -3722,19 +3722,19 @@ Xs4_13_0
 + vss
 + stage3[6]
 + stage4[13]
-+ inv
++ inv_tdc
 Xs4_13_1
 + vdd
 + vss
 + stage3[7]
 + stage4[13]
-+ inv
++ inv_tdc
 Xs5_13
 + vdd
 + vss
 + stage4[13]
 + stage5[13]
-+ inv
++ inv_tdc
 Xff_13
 + b
 + stage5[13]
@@ -3750,19 +3750,19 @@ Xs4_14_0
 + vss
 + stage3[7]
 + stage4[14]
-+ inv
++ inv_tdc
 Xs4_14_1
 + vdd
 + vss
 + stage3[7]
 + stage4[14]
-+ inv
++ inv_tdc
 Xs5_14
 + vdd
 + vss
 + stage4[14]
 + stage5[14]
-+ inv
++ inv_tdc
 Xff_14
 + b
 + stage5[14]
@@ -3778,19 +3778,19 @@ Xs4_15_0
 + vss
 + stage3[7]
 + stage4[15]
-+ inv
++ inv_tdc
 Xs4_15_1
 + vdd
 + vss
 + stage3[8]
 + stage4[15]
-+ inv
++ inv_tdc
 Xs5_15
 + vdd
 + vss
 + stage4[15]
 + stage5[15]
-+ inv
++ inv_tdc
 Xff_15
 + b
 + stage5[15]
@@ -3806,19 +3806,19 @@ Xs4_16_0
 + vss
 + stage3[8]
 + stage4[16]
-+ inv
++ inv_tdc
 Xs4_16_1
 + vdd
 + vss
 + stage3[8]
 + stage4[16]
-+ inv
++ inv_tdc
 Xs5_16
 + vdd
 + vss
 + stage4[16]
 + stage5[16]
-+ inv
++ inv_tdc
 Xff_16
 + b
 + stage5[16]
@@ -3834,19 +3834,19 @@ Xs4_17_0
 + vss
 + stage3[8]
 + stage4[17]
-+ inv
++ inv_tdc
 Xs4_17_1
 + vdd
 + vss
 + stage3[9]
 + stage4[17]
-+ inv
++ inv_tdc
 Xs5_17
 + vdd
 + vss
 + stage4[17]
 + stage5[17]
-+ inv
++ inv_tdc
 Xff_17
 + b
 + stage5[17]
@@ -3862,19 +3862,19 @@ Xs4_18_0
 + vss
 + stage3[9]
 + stage4[18]
-+ inv
++ inv_tdc
 Xs4_18_1
 + vdd
 + vss
 + stage3[9]
 + stage4[18]
-+ inv
++ inv_tdc
 Xs5_18
 + vdd
 + vss
 + stage4[18]
 + stage5[18]
-+ inv
++ inv_tdc
 Xff_18
 + b
 + stage5[18]
@@ -3890,19 +3890,19 @@ Xs4_19_0
 + vss
 + stage3[9]
 + stage4[19]
-+ inv
++ inv_tdc
 Xs4_19_1
 + vdd
 + vss
 + stage3[10]
 + stage4[19]
-+ inv
++ inv_tdc
 Xs5_19
 + vdd
 + vss
 + stage4[19]
 + stage5[19]
-+ inv
++ inv_tdc
 Xff_19
 + b
 + stage5[19]
@@ -3918,19 +3918,19 @@ Xs4_20_0
 + vss
 + stage3[10]
 + stage4[20]
-+ inv
++ inv_tdc
 Xs4_20_1
 + vdd
 + vss
 + stage3[10]
 + stage4[20]
-+ inv
++ inv_tdc
 Xs5_20
 + vdd
 + vss
 + stage4[20]
 + stage5[20]
-+ inv
++ inv_tdc
 Xff_20
 + b
 + stage5[20]
@@ -3946,19 +3946,19 @@ Xs4_21_0
 + vss
 + stage3[10]
 + stage4[21]
-+ inv
++ inv_tdc
 Xs4_21_1
 + vdd
 + vss
 + stage3[11]
 + stage4[21]
-+ inv
++ inv_tdc
 Xs5_21
 + vdd
 + vss
 + stage4[21]
 + stage5[21]
-+ inv
++ inv_tdc
 Xff_21
 + b
 + stage5[21]
@@ -3974,19 +3974,19 @@ Xs4_22_0
 + vss
 + stage3[11]
 + stage4[22]
-+ inv
++ inv_tdc
 Xs4_22_1
 + vdd
 + vss
 + stage3[11]
 + stage4[22]
-+ inv
++ inv_tdc
 Xs5_22
 + vdd
 + vss
 + stage4[22]
 + stage5[22]
-+ inv
++ inv_tdc
 Xff_22
 + b
 + stage5[22]
@@ -4002,19 +4002,19 @@ Xs4_23_0
 + vss
 + stage3[11]
 + stage4[23]
-+ inv
++ inv_tdc
 Xs4_23_1
 + vdd
 + vss
 + stage3[12]
 + stage4[23]
-+ inv
++ inv_tdc
 Xs5_23
 + vdd
 + vss
 + stage4[23]
 + stage5[23]
-+ inv
++ inv_tdc
 Xff_23
 + b
 + stage5[23]
@@ -4030,19 +4030,19 @@ Xs4_24_0
 + vss
 + stage3[12]
 + stage4[24]
-+ inv
++ inv_tdc
 Xs4_24_1
 + vdd
 + vss
 + stage3[12]
 + stage4[24]
-+ inv
++ inv_tdc
 Xs5_24
 + vdd
 + vss
 + stage4[24]
 + stage5[24]
-+ inv
++ inv_tdc
 Xff_24
 + b
 + stage5[24]
@@ -4058,19 +4058,19 @@ Xs4_25_0
 + vss
 + stage3[12]
 + stage4[25]
-+ inv
++ inv_tdc
 Xs4_25_1
 + vdd
 + vss
 + stage3[13]
 + stage4[25]
-+ inv
++ inv_tdc
 Xs5_25
 + vdd
 + vss
 + stage4[25]
 + stage5[25]
-+ inv
++ inv_tdc
 Xff_25
 + b
 + stage5[25]
@@ -4086,19 +4086,19 @@ Xs4_26_0
 + vss
 + stage3[13]
 + stage4[26]
-+ inv
++ inv_tdc
 Xs4_26_1
 + vdd
 + vss
 + stage3[13]
 + stage4[26]
-+ inv
++ inv_tdc
 Xs5_26
 + vdd
 + vss
 + stage4[26]
 + stage5[26]
-+ inv
++ inv_tdc
 Xff_26
 + b
 + stage5[26]
@@ -4114,19 +4114,19 @@ Xs4_27_0
 + vss
 + stage3[13]
 + stage4[27]
-+ inv
++ inv_tdc
 Xs4_27_1
 + vdd
 + vss
 + stage3[14]
 + stage4[27]
-+ inv
++ inv_tdc
 Xs5_27
 + vdd
 + vss
 + stage4[27]
 + stage5[27]
-+ inv
++ inv_tdc
 Xff_27
 + b
 + stage5[27]
@@ -4142,19 +4142,19 @@ Xs4_28_0
 + vss
 + stage3[14]
 + stage4[28]
-+ inv
++ inv_tdc
 Xs4_28_1
 + vdd
 + vss
 + stage3[14]
 + stage4[28]
-+ inv
++ inv_tdc
 Xs5_28
 + vdd
 + vss
 + stage4[28]
 + stage5[28]
-+ inv
++ inv_tdc
 Xff_28
 + b
 + stage5[28]
@@ -4170,19 +4170,19 @@ Xs4_29_0
 + vss
 + stage3[14]
 + stage4[29]
-+ inv
++ inv_tdc
 Xs4_29_1
 + vdd
 + vss
 + stage3[15]
 + stage4[29]
-+ inv
++ inv_tdc
 Xs5_29
 + vdd
 + vss
 + stage4[29]
 + stage5[29]
-+ inv
++ inv_tdc
 Xff_29
 + b
 + stage5[29]
@@ -4198,19 +4198,19 @@ Xs4_30_0
 + vss
 + stage3[15]
 + stage4[30]
-+ inv
++ inv_tdc
 Xs4_30_1
 + vdd
 + vss
 + stage3[15]
 + stage4[30]
-+ inv
++ inv_tdc
 Xs5_30
 + vdd
 + vss
 + stage4[30]
 + stage5[30]
-+ inv
++ inv_tdc
 Xff_30
 + b
 + stage5[30]
@@ -4226,19 +4226,19 @@ Xs4_31_0
 + vss
 + stage3[15]
 + stage4[31]
-+ inv
++ inv_tdc
 Xs4_31_1
 + vdd
 + vss
 + stage3[16]
 + stage4[31]
-+ inv
++ inv_tdc
 Xs5_31
 + vdd
 + vss
 + stage4[31]
 + stage5[31]
-+ inv
++ inv_tdc
 Xff_31
 + b
 + stage5[31]
@@ -4254,19 +4254,19 @@ Xs4_32_0
 + vss
 + stage3[16]
 + stage4[32]
-+ inv
++ inv_tdc
 Xs4_32_1
 + vdd
 + vss
 + stage3[16]
 + stage4[32]
-+ inv
++ inv_tdc
 Xs5_32
 + vdd
 + vss
 + stage4[32]
 + stage5[32]
-+ inv
++ inv_tdc
 Xff_32
 + b
 + stage5[32]
@@ -4282,19 +4282,19 @@ Xs4_33_0
 + vss
 + stage3[16]
 + stage4[33]
-+ inv
++ inv_tdc
 Xs4_33_1
 + vdd
 + vss
 + stage3[17]
 + stage4[33]
-+ inv
++ inv_tdc
 Xs5_33
 + vdd
 + vss
 + stage4[33]
 + stage5[33]
-+ inv
++ inv_tdc
 Xff_33
 + b
 + stage5[33]
@@ -4310,19 +4310,19 @@ Xs4_34_0
 + vss
 + stage3[17]
 + stage4[34]
-+ inv
++ inv_tdc
 Xs4_34_1
 + vdd
 + vss
 + stage3[17]
 + stage4[34]
-+ inv
++ inv_tdc
 Xs5_34
 + vdd
 + vss
 + stage4[34]
 + stage5[34]
-+ inv
++ inv_tdc
 Xff_34
 + b
 + stage5[34]
@@ -4338,19 +4338,19 @@ Xs4_35_0
 + vss
 + stage3[17]
 + stage4[35]
-+ inv
++ inv_tdc
 Xs4_35_1
 + vdd
 + vss
 + stage3[18]
 + stage4[35]
-+ inv
++ inv_tdc
 Xs5_35
 + vdd
 + vss
 + stage4[35]
 + stage5[35]
-+ inv
++ inv_tdc
 Xff_35
 + b
 + stage5[35]
@@ -4366,19 +4366,19 @@ Xs4_36_0
 + vss
 + stage3[18]
 + stage4[36]
-+ inv
++ inv_tdc
 Xs4_36_1
 + vdd
 + vss
 + stage3[18]
 + stage4[36]
-+ inv
++ inv_tdc
 Xs5_36
 + vdd
 + vss
 + stage4[36]
 + stage5[36]
-+ inv
++ inv_tdc
 Xff_36
 + b
 + stage5[36]
@@ -4394,19 +4394,19 @@ Xs4_37_0
 + vss
 + stage3[18]
 + stage4[37]
-+ inv
++ inv_tdc
 Xs4_37_1
 + vdd
 + vss
 + stage3[19]
 + stage4[37]
-+ inv
++ inv_tdc
 Xs5_37
 + vdd
 + vss
 + stage4[37]
 + stage5[37]
-+ inv
++ inv_tdc
 Xff_37
 + b
 + stage5[37]
@@ -4422,19 +4422,19 @@ Xs4_38_0
 + vss
 + stage3[19]
 + stage4[38]
-+ inv
++ inv_tdc
 Xs4_38_1
 + vdd
 + vss
 + stage3[19]
 + stage4[38]
-+ inv
++ inv_tdc
 Xs5_38
 + vdd
 + vss
 + stage4[38]
 + stage5[38]
-+ inv
++ inv_tdc
 Xff_38
 + b
 + stage5[38]
@@ -4450,19 +4450,19 @@ Xs4_39_0
 + vss
 + stage3[19]
 + stage4[39]
-+ inv
++ inv_tdc
 Xs4_39_1
 + vdd
 + vss
 + stage3[20]
 + stage4[39]
-+ inv
++ inv_tdc
 Xs5_39
 + vdd
 + vss
 + stage4[39]
 + stage5[39]
-+ inv
++ inv_tdc
 Xff_39
 + b
 + stage5[39]
@@ -4478,19 +4478,19 @@ Xs4_40_0
 + vss
 + stage3[20]
 + stage4[40]
-+ inv
++ inv_tdc
 Xs4_40_1
 + vdd
 + vss
 + stage3[20]
 + stage4[40]
-+ inv
++ inv_tdc
 Xs5_40
 + vdd
 + vss
 + stage4[40]
 + stage5[40]
-+ inv
++ inv_tdc
 Xff_40
 + b
 + stage5[40]
@@ -4506,19 +4506,19 @@ Xs4_41_0
 + vss
 + stage3[20]
 + stage4[41]
-+ inv
++ inv_tdc
 Xs4_41_1
 + vdd
 + vss
 + stage3[21]
 + stage4[41]
-+ inv
++ inv_tdc
 Xs5_41
 + vdd
 + vss
 + stage4[41]
 + stage5[41]
-+ inv
++ inv_tdc
 Xff_41
 + b
 + stage5[41]
@@ -4534,19 +4534,19 @@ Xs4_42_0
 + vss
 + stage3[21]
 + stage4[42]
-+ inv
++ inv_tdc
 Xs4_42_1
 + vdd
 + vss
 + stage3[21]
 + stage4[42]
-+ inv
++ inv_tdc
 Xs5_42
 + vdd
 + vss
 + stage4[42]
 + stage5[42]
-+ inv
++ inv_tdc
 Xff_42
 + b
 + stage5[42]
@@ -4562,19 +4562,19 @@ Xs4_43_0
 + vss
 + stage3[21]
 + stage4[43]
-+ inv
++ inv_tdc
 Xs4_43_1
 + vdd
 + vss
 + stage3[22]
 + stage4[43]
-+ inv
++ inv_tdc
 Xs5_43
 + vdd
 + vss
 + stage4[43]
 + stage5[43]
-+ inv
++ inv_tdc
 Xff_43
 + b
 + stage5[43]
@@ -4590,19 +4590,19 @@ Xs4_44_0
 + vss
 + stage3[22]
 + stage4[44]
-+ inv
++ inv_tdc
 Xs4_44_1
 + vdd
 + vss
 + stage3[22]
 + stage4[44]
-+ inv
++ inv_tdc
 Xs5_44
 + vdd
 + vss
 + stage4[44]
 + stage5[44]
-+ inv
++ inv_tdc
 Xff_44
 + b
 + stage5[44]
@@ -4618,19 +4618,19 @@ Xs4_45_0
 + vss
 + stage3[22]
 + stage4[45]
-+ inv
++ inv_tdc
 Xs4_45_1
 + vdd
 + vss
 + stage3[23]
 + stage4[45]
-+ inv
++ inv_tdc
 Xs5_45
 + vdd
 + vss
 + stage4[45]
 + stage5[45]
-+ inv
++ inv_tdc
 Xff_45
 + b
 + stage5[45]
@@ -4646,19 +4646,19 @@ Xs4_46_0
 + vss
 + stage3[23]
 + stage4[46]
-+ inv
++ inv_tdc
 Xs4_46_1
 + vdd
 + vss
 + stage3[23]
 + stage4[46]
-+ inv
++ inv_tdc
 Xs5_46
 + vdd
 + vss
 + stage4[46]
 + stage5[46]
-+ inv
++ inv_tdc
 Xff_46
 + b
 + stage5[46]
@@ -4674,19 +4674,19 @@ Xs4_47_0
 + vss
 + stage3[23]
 + stage4[47]
-+ inv
++ inv_tdc
 Xs4_47_1
 + vdd
 + vss
 + stage3[24]
 + stage4[47]
-+ inv
++ inv_tdc
 Xs5_47
 + vdd
 + vss
 + stage4[47]
 + stage5[47]
-+ inv
++ inv_tdc
 Xff_47
 + b
 + stage5[47]
@@ -4702,19 +4702,19 @@ Xs4_48_0
 + vss
 + stage3[24]
 + stage4[48]
-+ inv
++ inv_tdc
 Xs4_48_1
 + vdd
 + vss
 + stage3[24]
 + stage4[48]
-+ inv
++ inv_tdc
 Xs5_48
 + vdd
 + vss
 + stage4[48]
 + stage5[48]
-+ inv
++ inv_tdc
 Xff_48
 + b
 + stage5[48]
@@ -4730,19 +4730,19 @@ Xs4_49_0
 + vss
 + stage3[24]
 + stage4[49]
-+ inv
++ inv_tdc
 Xs4_49_1
 + vdd
 + vss
 + stage3[25]
 + stage4[49]
-+ inv
++ inv_tdc
 Xs5_49
 + vdd
 + vss
 + stage4[49]
 + stage5[49]
-+ inv
++ inv_tdc
 Xff_49
 + b
 + stage5[49]
@@ -4758,19 +4758,19 @@ Xs4_50_0
 + vss
 + stage3[25]
 + stage4[50]
-+ inv
++ inv_tdc
 Xs4_50_1
 + vdd
 + vss
 + stage3[25]
 + stage4[50]
-+ inv
++ inv_tdc
 Xs5_50
 + vdd
 + vss
 + stage4[50]
 + stage5[50]
-+ inv
++ inv_tdc
 Xff_50
 + b
 + stage5[50]
@@ -4786,19 +4786,19 @@ Xs4_51_0
 + vss
 + stage3[25]
 + stage4[51]
-+ inv
++ inv_tdc
 Xs4_51_1
 + vdd
 + vss
 + stage3[26]
 + stage4[51]
-+ inv
++ inv_tdc
 Xs5_51
 + vdd
 + vss
 + stage4[51]
 + stage5[51]
-+ inv
++ inv_tdc
 Xff_51
 + b
 + stage5[51]
@@ -4814,19 +4814,19 @@ Xs4_52_0
 + vss
 + stage3[26]
 + stage4[52]
-+ inv
++ inv_tdc
 Xs4_52_1
 + vdd
 + vss
 + stage3[26]
 + stage4[52]
-+ inv
++ inv_tdc
 Xs5_52
 + vdd
 + vss
 + stage4[52]
 + stage5[52]
-+ inv
++ inv_tdc
 Xff_52
 + b
 + stage5[52]
@@ -4842,19 +4842,19 @@ Xs4_53_0
 + vss
 + stage3[26]
 + stage4[53]
-+ inv
++ inv_tdc
 Xs4_53_1
 + vdd
 + vss
 + stage3[27]
 + stage4[53]
-+ inv
++ inv_tdc
 Xs5_53
 + vdd
 + vss
 + stage4[53]
 + stage5[53]
-+ inv
++ inv_tdc
 Xff_53
 + b
 + stage5[53]
@@ -4870,19 +4870,19 @@ Xs4_54_0
 + vss
 + stage3[27]
 + stage4[54]
-+ inv
++ inv_tdc
 Xs4_54_1
 + vdd
 + vss
 + stage3[27]
 + stage4[54]
-+ inv
++ inv_tdc
 Xs5_54
 + vdd
 + vss
 + stage4[54]
 + stage5[54]
-+ inv
++ inv_tdc
 Xff_54
 + b
 + stage5[54]
@@ -4898,19 +4898,19 @@ Xs4_55_0
 + vss
 + stage3[27]
 + stage4[55]
-+ inv
++ inv_tdc
 Xs4_55_1
 + vdd
 + vss
 + stage3[28]
 + stage4[55]
-+ inv
++ inv_tdc
 Xs5_55
 + vdd
 + vss
 + stage4[55]
 + stage5[55]
-+ inv
++ inv_tdc
 Xff_55
 + b
 + stage5[55]
@@ -4926,19 +4926,19 @@ Xs4_56_0
 + vss
 + stage3[28]
 + stage4[56]
-+ inv
++ inv_tdc
 Xs4_56_1
 + vdd
 + vss
 + stage3[28]
 + stage4[56]
-+ inv
++ inv_tdc
 Xs5_56
 + vdd
 + vss
 + stage4[56]
 + stage5[56]
-+ inv
++ inv_tdc
 Xff_56
 + b
 + stage5[56]
@@ -4954,19 +4954,19 @@ Xs4_57_0
 + vss
 + stage3[28]
 + stage4[57]
-+ inv
++ inv_tdc
 Xs4_57_1
 + vdd
 + vss
 + stage3[29]
 + stage4[57]
-+ inv
++ inv_tdc
 Xs5_57
 + vdd
 + vss
 + stage4[57]
 + stage5[57]
-+ inv
++ inv_tdc
 Xff_57
 + b
 + stage5[57]
@@ -4982,19 +4982,19 @@ Xs4_58_0
 + vss
 + stage3[29]
 + stage4[58]
-+ inv
++ inv_tdc
 Xs4_58_1
 + vdd
 + vss
 + stage3[29]
 + stage4[58]
-+ inv
++ inv_tdc
 Xs5_58
 + vdd
 + vss
 + stage4[58]
 + stage5[58]
-+ inv
++ inv_tdc
 Xff_58
 + b
 + stage5[58]
@@ -5010,19 +5010,19 @@ Xs4_59_0
 + vss
 + stage3[29]
 + stage4[59]
-+ inv
++ inv_tdc
 Xs4_59_1
 + vdd
 + vss
 + stage3[30]
 + stage4[59]
-+ inv
++ inv_tdc
 Xs5_59
 + vdd
 + vss
 + stage4[59]
 + stage5[59]
-+ inv
++ inv_tdc
 Xff_59
 + b
 + stage5[59]
@@ -5038,19 +5038,19 @@ Xs4_60_0
 + vss
 + stage3[30]
 + stage4[60]
-+ inv
++ inv_tdc
 Xs4_60_1
 + vdd
 + vss
 + stage3[30]
 + stage4[60]
-+ inv
++ inv_tdc
 Xs5_60
 + vdd
 + vss
 + stage4[60]
 + stage5[60]
-+ inv
++ inv_tdc
 Xff_60
 + b
 + stage5[60]
@@ -5066,19 +5066,19 @@ Xs4_61_0
 + vss
 + stage3[30]
 + stage4[61]
-+ inv
++ inv_tdc
 Xs4_61_1
 + vdd
 + vss
 + stage3[31]
 + stage4[61]
-+ inv
++ inv_tdc
 Xs5_61
 + vdd
 + vss
 + stage4[61]
 + stage5[61]
-+ inv
++ inv_tdc
 Xff_61
 + b
 + stage5[61]
@@ -5094,19 +5094,19 @@ Xs4_62_0
 + vss
 + stage3[31]
 + stage4[62]
-+ inv
++ inv_tdc
 Xs4_62_1
 + vdd
 + vss
 + stage3[31]
 + stage4[62]
-+ inv
++ inv_tdc
 Xs5_62
 + vdd
 + vss
 + stage4[62]
 + stage5[62]
-+ inv
++ inv_tdc
 Xff_62
 + b
 + stage5[62]
@@ -5122,19 +5122,19 @@ Xs4_63_0
 + vss
 + stage3[31]
 + stage4[63]
-+ inv
++ inv_tdc
 Xs4_63_1
 + vdd
 + vss
 + stage3[32]
 + stage4[63]
-+ inv
++ inv_tdc
 Xs5_63
 + vdd
 + vss
 + stage4[63]
 + stage5[63]
-+ inv
++ inv_tdc
 Xff_63
 + b
 + stage5[63]
@@ -5150,19 +5150,19 @@ Xs4_64_0
 + vss
 + stage3[32]
 + stage4[64]
-+ inv
++ inv_tdc
 Xs4_64_1
 + vdd
 + vss
 + stage3[32]
 + stage4[64]
-+ inv
++ inv_tdc
 Xs5_64
 + vdd
 + vss
 + stage4[64]
 + stage5[64]
-+ inv
++ inv_tdc
 Xff_64
 + b
 + stage5[64]
@@ -5178,19 +5178,19 @@ Xs4_65_0
 + vss
 + stage3[32]
 + stage4[65]
-+ inv
++ inv_tdc
 Xs4_65_1
 + vdd
 + vss
 + stage3[33]
 + stage4[65]
-+ inv
++ inv_tdc
 Xs5_65
 + vdd
 + vss
 + stage4[65]
 + stage5[65]
-+ inv
++ inv_tdc
 Xff_65
 + b
 + stage5[65]
@@ -5206,19 +5206,19 @@ Xs4_66_0
 + vss
 + stage3[33]
 + stage4[66]
-+ inv
++ inv_tdc
 Xs4_66_1
 + vdd
 + vss
 + stage3[33]
 + stage4[66]
-+ inv
++ inv_tdc
 Xs5_66
 + vdd
 + vss
 + stage4[66]
 + stage5[66]
-+ inv
++ inv_tdc
 Xff_66
 + b
 + stage5[66]
@@ -5234,19 +5234,19 @@ Xs4_67_0
 + vss
 + stage3[33]
 + stage4[67]
-+ inv
++ inv_tdc
 Xs4_67_1
 + vdd
 + vss
 + stage3[34]
 + stage4[67]
-+ inv
++ inv_tdc
 Xs5_67
 + vdd
 + vss
 + stage4[67]
 + stage5[67]
-+ inv
++ inv_tdc
 Xff_67
 + b
 + stage5[67]
@@ -5262,19 +5262,19 @@ Xs4_68_0
 + vss
 + stage3[34]
 + stage4[68]
-+ inv
++ inv_tdc
 Xs4_68_1
 + vdd
 + vss
 + stage3[34]
 + stage4[68]
-+ inv
++ inv_tdc
 Xs5_68
 + vdd
 + vss
 + stage4[68]
 + stage5[68]
-+ inv
++ inv_tdc
 Xff_68
 + b
 + stage5[68]
@@ -5290,19 +5290,19 @@ Xs4_69_0
 + vss
 + stage3[34]
 + stage4[69]
-+ inv
++ inv_tdc
 Xs4_69_1
 + vdd
 + vss
 + stage3[35]
 + stage4[69]
-+ inv
++ inv_tdc
 Xs5_69
 + vdd
 + vss
 + stage4[69]
 + stage5[69]
-+ inv
++ inv_tdc
 Xff_69
 + b
 + stage5[69]
@@ -5318,19 +5318,19 @@ Xs4_70_0
 + vss
 + stage3[35]
 + stage4[70]
-+ inv
++ inv_tdc
 Xs4_70_1
 + vdd
 + vss
 + stage3[35]
 + stage4[70]
-+ inv
++ inv_tdc
 Xs5_70
 + vdd
 + vss
 + stage4[70]
 + stage5[70]
-+ inv
++ inv_tdc
 Xff_70
 + b
 + stage5[70]
@@ -5346,19 +5346,19 @@ Xs4_71_0
 + vss
 + stage3[35]
 + stage4[71]
-+ inv
++ inv_tdc
 Xs4_71_1
 + vdd
 + vss
 + stage3[36]
 + stage4[71]
-+ inv
++ inv_tdc
 Xs5_71
 + vdd
 + vss
 + stage4[71]
 + stage5[71]
-+ inv
++ inv_tdc
 Xff_71
 + b
 + stage5[71]
@@ -5374,19 +5374,19 @@ Xs4_72_0
 + vss
 + stage3[36]
 + stage4[72]
-+ inv
++ inv_tdc
 Xs4_72_1
 + vdd
 + vss
 + stage3[36]
 + stage4[72]
-+ inv
++ inv_tdc
 Xs5_72
 + vdd
 + vss
 + stage4[72]
 + stage5[72]
-+ inv
++ inv_tdc
 Xff_72
 + b
 + stage5[72]
@@ -5402,19 +5402,19 @@ Xs4_73_0
 + vss
 + stage3[36]
 + stage4[73]
-+ inv
++ inv_tdc
 Xs4_73_1
 + vdd
 + vss
 + stage3[37]
 + stage4[73]
-+ inv
++ inv_tdc
 Xs5_73
 + vdd
 + vss
 + stage4[73]
 + stage5[73]
-+ inv
++ inv_tdc
 Xff_73
 + b
 + stage5[73]
@@ -5430,19 +5430,19 @@ Xs4_74_0
 + vss
 + stage3[37]
 + stage4[74]
-+ inv
++ inv_tdc
 Xs4_74_1
 + vdd
 + vss
 + stage3[37]
 + stage4[74]
-+ inv
++ inv_tdc
 Xs5_74
 + vdd
 + vss
 + stage4[74]
 + stage5[74]
-+ inv
++ inv_tdc
 Xff_74
 + b
 + stage5[74]
@@ -5458,19 +5458,19 @@ Xs4_75_0
 + vss
 + stage3[37]
 + stage4[75]
-+ inv
++ inv_tdc
 Xs4_75_1
 + vdd
 + vss
 + stage3[38]
 + stage4[75]
-+ inv
++ inv_tdc
 Xs5_75
 + vdd
 + vss
 + stage4[75]
 + stage5[75]
-+ inv
++ inv_tdc
 Xff_75
 + b
 + stage5[75]
@@ -5486,19 +5486,19 @@ Xs4_76_0
 + vss
 + stage3[38]
 + stage4[76]
-+ inv
++ inv_tdc
 Xs4_76_1
 + vdd
 + vss
 + stage3[38]
 + stage4[76]
-+ inv
++ inv_tdc
 Xs5_76
 + vdd
 + vss
 + stage4[76]
 + stage5[76]
-+ inv
++ inv_tdc
 Xff_76
 + b
 + stage5[76]
@@ -5514,19 +5514,19 @@ Xs4_77_0
 + vss
 + stage3[38]
 + stage4[77]
-+ inv
++ inv_tdc
 Xs4_77_1
 + vdd
 + vss
 + stage3[39]
 + stage4[77]
-+ inv
++ inv_tdc
 Xs5_77
 + vdd
 + vss
 + stage4[77]
 + stage5[77]
-+ inv
++ inv_tdc
 Xff_77
 + b
 + stage5[77]
@@ -5542,19 +5542,19 @@ Xs4_78_0
 + vss
 + stage3[39]
 + stage4[78]
-+ inv
++ inv_tdc
 Xs4_78_1
 + vdd
 + vss
 + stage3[39]
 + stage4[78]
-+ inv
++ inv_tdc
 Xs5_78
 + vdd
 + vss
 + stage4[78]
 + stage5[78]
-+ inv
++ inv_tdc
 Xff_78
 + b
 + stage5[78]
@@ -5570,19 +5570,19 @@ Xs4_79_0
 + vss
 + stage3[39]
 + stage4[79]
-+ inv
++ inv_tdc
 Xs4_79_1
 + vdd
 + vss
 + stage3[40]
 + stage4[79]
-+ inv
++ inv_tdc
 Xs5_79
 + vdd
 + vss
 + stage4[79]
 + stage5[79]
-+ inv
++ inv_tdc
 Xff_79
 + b
 + stage5[79]
@@ -5598,19 +5598,19 @@ Xs4_80_0
 + vss
 + stage3[40]
 + stage4[80]
-+ inv
++ inv_tdc
 Xs4_80_1
 + vdd
 + vss
 + stage3[40]
 + stage4[80]
-+ inv
++ inv_tdc
 Xs5_80
 + vdd
 + vss
 + stage4[80]
 + stage5[80]
-+ inv
++ inv_tdc
 Xff_80
 + b
 + stage5[80]
@@ -5626,19 +5626,19 @@ Xs4_81_0
 + vss
 + stage3[40]
 + stage4[81]
-+ inv
++ inv_tdc
 Xs4_81_1
 + vdd
 + vss
 + stage3[41]
 + stage4[81]
-+ inv
++ inv_tdc
 Xs5_81
 + vdd
 + vss
 + stage4[81]
 + stage5[81]
-+ inv
++ inv_tdc
 Xff_81
 + b
 + stage5[81]
@@ -5654,19 +5654,19 @@ Xs4_82_0
 + vss
 + stage3[41]
 + stage4[82]
-+ inv
++ inv_tdc
 Xs4_82_1
 + vdd
 + vss
 + stage3[41]
 + stage4[82]
-+ inv
++ inv_tdc
 Xs5_82
 + vdd
 + vss
 + stage4[82]
 + stage5[82]
-+ inv
++ inv_tdc
 Xff_82
 + b
 + stage5[82]
@@ -5682,19 +5682,19 @@ Xs4_83_0
 + vss
 + stage3[41]
 + stage4[83]
-+ inv
++ inv_tdc
 Xs4_83_1
 + vdd
 + vss
 + stage3[42]
 + stage4[83]
-+ inv
++ inv_tdc
 Xs5_83
 + vdd
 + vss
 + stage4[83]
 + stage5[83]
-+ inv
++ inv_tdc
 Xff_83
 + b
 + stage5[83]
@@ -5710,19 +5710,19 @@ Xs4_84_0
 + vss
 + stage3[42]
 + stage4[84]
-+ inv
++ inv_tdc
 Xs4_84_1
 + vdd
 + vss
 + stage3[42]
 + stage4[84]
-+ inv
++ inv_tdc
 Xs5_84
 + vdd
 + vss
 + stage4[84]
 + stage5[84]
-+ inv
++ inv_tdc
 Xff_84
 + b
 + stage5[84]
@@ -5738,19 +5738,19 @@ Xs4_85_0
 + vss
 + stage3[42]
 + stage4[85]
-+ inv
++ inv_tdc
 Xs4_85_1
 + vdd
 + vss
 + stage3[43]
 + stage4[85]
-+ inv
++ inv_tdc
 Xs5_85
 + vdd
 + vss
 + stage4[85]
 + stage5[85]
-+ inv
++ inv_tdc
 Xff_85
 + b
 + stage5[85]
@@ -5766,19 +5766,19 @@ Xs4_86_0
 + vss
 + stage3[43]
 + stage4[86]
-+ inv
++ inv_tdc
 Xs4_86_1
 + vdd
 + vss
 + stage3[43]
 + stage4[86]
-+ inv
++ inv_tdc
 Xs5_86
 + vdd
 + vss
 + stage4[86]
 + stage5[86]
-+ inv
++ inv_tdc
 Xff_86
 + b
 + stage5[86]
@@ -5794,19 +5794,19 @@ Xs4_87_0
 + vss
 + stage3[43]
 + stage4[87]
-+ inv
++ inv_tdc
 Xs4_87_1
 + vdd
 + vss
 + stage3[44]
 + stage4[87]
-+ inv
++ inv_tdc
 Xs5_87
 + vdd
 + vss
 + stage4[87]
 + stage5[87]
-+ inv
++ inv_tdc
 Xff_87
 + b
 + stage5[87]
@@ -5822,19 +5822,19 @@ Xs4_88_0
 + vss
 + stage3[44]
 + stage4[88]
-+ inv
++ inv_tdc
 Xs4_88_1
 + vdd
 + vss
 + stage3[44]
 + stage4[88]
-+ inv
++ inv_tdc
 Xs5_88
 + vdd
 + vss
 + stage4[88]
 + stage5[88]
-+ inv
++ inv_tdc
 Xff_88
 + b
 + stage5[88]
@@ -5850,19 +5850,19 @@ Xs4_89_0
 + vss
 + stage3[44]
 + stage4[89]
-+ inv
++ inv_tdc
 Xs4_89_1
 + vdd
 + vss
 + stage3[45]
 + stage4[89]
-+ inv
++ inv_tdc
 Xs5_89
 + vdd
 + vss
 + stage4[89]
 + stage5[89]
-+ inv
++ inv_tdc
 Xff_89
 + b
 + stage5[89]
@@ -5878,19 +5878,19 @@ Xs4_90_0
 + vss
 + stage3[45]
 + stage4[90]
-+ inv
++ inv_tdc
 Xs4_90_1
 + vdd
 + vss
 + stage3[45]
 + stage4[90]
-+ inv
++ inv_tdc
 Xs5_90
 + vdd
 + vss
 + stage4[90]
 + stage5[90]
-+ inv
++ inv_tdc
 Xff_90
 + b
 + stage5[90]
@@ -5906,19 +5906,19 @@ Xs4_91_0
 + vss
 + stage3[45]
 + stage4[91]
-+ inv
++ inv_tdc
 Xs4_91_1
 + vdd
 + vss
 + stage3[46]
 + stage4[91]
-+ inv
++ inv_tdc
 Xs5_91
 + vdd
 + vss
 + stage4[91]
 + stage5[91]
-+ inv
++ inv_tdc
 Xff_91
 + b
 + stage5[91]
@@ -5934,19 +5934,19 @@ Xs4_92_0
 + vss
 + stage3[46]
 + stage4[92]
-+ inv
++ inv_tdc
 Xs4_92_1
 + vdd
 + vss
 + stage3[46]
 + stage4[92]
-+ inv
++ inv_tdc
 Xs5_92
 + vdd
 + vss
 + stage4[92]
 + stage5[92]
-+ inv
++ inv_tdc
 Xff_92
 + b
 + stage5[92]
@@ -5962,19 +5962,19 @@ Xs4_93_0
 + vss
 + stage3[46]
 + stage4[93]
-+ inv
++ inv_tdc
 Xs4_93_1
 + vdd
 + vss
 + stage3[47]
 + stage4[93]
-+ inv
++ inv_tdc
 Xs5_93
 + vdd
 + vss
 + stage4[93]
 + stage5[93]
-+ inv
++ inv_tdc
 Xff_93
 + b
 + stage5[93]
@@ -5990,19 +5990,19 @@ Xs4_94_0
 + vss
 + stage3[47]
 + stage4[94]
-+ inv
++ inv_tdc
 Xs4_94_1
 + vdd
 + vss
 + stage3[47]
 + stage4[94]
-+ inv
++ inv_tdc
 Xs5_94
 + vdd
 + vss
 + stage4[94]
 + stage5[94]
-+ inv
++ inv_tdc
 Xff_94
 + b
 + stage5[94]
@@ -6018,19 +6018,19 @@ Xs4_95_0
 + vss
 + stage3[47]
 + stage4[95]
-+ inv
++ inv_tdc
 Xs4_95_1
 + vdd
 + vss
 + stage3[48]
 + stage4[95]
-+ inv
++ inv_tdc
 Xs5_95
 + vdd
 + vss
 + stage4[95]
 + stage5[95]
-+ inv
++ inv_tdc
 Xff_95
 + b
 + stage5[95]
@@ -6046,19 +6046,19 @@ Xs4_96_0
 + vss
 + stage3[48]
 + stage4[96]
-+ inv
++ inv_tdc
 Xs4_96_1
 + vdd
 + vss
 + stage3[48]
 + stage4[96]
-+ inv
++ inv_tdc
 Xs5_96
 + vdd
 + vss
 + stage4[96]
 + stage5[96]
-+ inv
++ inv_tdc
 Xff_96
 + b
 + stage5[96]
@@ -6074,19 +6074,19 @@ Xs4_97_0
 + vss
 + stage3[48]
 + stage4[97]
-+ inv
++ inv_tdc
 Xs4_97_1
 + vdd
 + vss
 + stage3[49]
 + stage4[97]
-+ inv
++ inv_tdc
 Xs5_97
 + vdd
 + vss
 + stage4[97]
 + stage5[97]
-+ inv
++ inv_tdc
 Xff_97
 + b
 + stage5[97]
@@ -6102,19 +6102,19 @@ Xs4_98_0
 + vss
 + stage3[49]
 + stage4[98]
-+ inv
++ inv_tdc
 Xs4_98_1
 + vdd
 + vss
 + stage3[49]
 + stage4[98]
-+ inv
++ inv_tdc
 Xs5_98
 + vdd
 + vss
 + stage4[98]
 + stage5[98]
-+ inv
++ inv_tdc
 Xff_98
 + b
 + stage5[98]
@@ -6130,19 +6130,19 @@ Xs4_99_0
 + vss
 + stage3[49]
 + stage4[99]
-+ inv
++ inv_tdc
 Xs4_99_1
 + vdd
 + vss
 + stage3[50]
 + stage4[99]
-+ inv
++ inv_tdc
 Xs5_99
 + vdd
 + vss
 + stage4[99]
 + stage5[99]
-+ inv
++ inv_tdc
 Xff_99
 + b
 + stage5[99]
@@ -6158,19 +6158,19 @@ Xs4_100_0
 + vss
 + stage3[50]
 + stage4[100]
-+ inv
++ inv_tdc
 Xs4_100_1
 + vdd
 + vss
 + stage3[50]
 + stage4[100]
-+ inv
++ inv_tdc
 Xs5_100
 + vdd
 + vss
 + stage4[100]
 + stage5[100]
-+ inv
++ inv_tdc
 Xff_100
 + b
 + stage5[100]
@@ -6186,19 +6186,19 @@ Xs4_101_0
 + vss
 + stage3[50]
 + stage4[101]
-+ inv
++ inv_tdc
 Xs4_101_1
 + vdd
 + vss
 + stage3[51]
 + stage4[101]
-+ inv
++ inv_tdc
 Xs5_101
 + vdd
 + vss
 + stage4[101]
 + stage5[101]
-+ inv
++ inv_tdc
 Xff_101
 + b
 + stage5[101]
@@ -6214,19 +6214,19 @@ Xs4_102_0
 + vss
 + stage3[51]
 + stage4[102]
-+ inv
++ inv_tdc
 Xs4_102_1
 + vdd
 + vss
 + stage3[51]
 + stage4[102]
-+ inv
++ inv_tdc
 Xs5_102
 + vdd
 + vss
 + stage4[102]
 + stage5[102]
-+ inv
++ inv_tdc
 Xff_102
 + b
 + stage5[102]
@@ -6242,19 +6242,19 @@ Xs4_103_0
 + vss
 + stage3[51]
 + stage4[103]
-+ inv
++ inv_tdc
 Xs4_103_1
 + vdd
 + vss
 + stage3[52]
 + stage4[103]
-+ inv
++ inv_tdc
 Xs5_103
 + vdd
 + vss
 + stage4[103]
 + stage5[103]
-+ inv
++ inv_tdc
 Xff_103
 + b
 + stage5[103]
@@ -6270,19 +6270,19 @@ Xs4_104_0
 + vss
 + stage3[52]
 + stage4[104]
-+ inv
++ inv_tdc
 Xs4_104_1
 + vdd
 + vss
 + stage3[52]
 + stage4[104]
-+ inv
++ inv_tdc
 Xs5_104
 + vdd
 + vss
 + stage4[104]
 + stage5[104]
-+ inv
++ inv_tdc
 Xff_104
 + b
 + stage5[104]
@@ -6298,19 +6298,19 @@ Xs4_105_0
 + vss
 + stage3[52]
 + stage4[105]
-+ inv
++ inv_tdc
 Xs4_105_1
 + vdd
 + vss
 + stage3[53]
 + stage4[105]
-+ inv
++ inv_tdc
 Xs5_105
 + vdd
 + vss
 + stage4[105]
 + stage5[105]
-+ inv
++ inv_tdc
 Xff_105
 + b
 + stage5[105]
@@ -6326,19 +6326,19 @@ Xs4_106_0
 + vss
 + stage3[53]
 + stage4[106]
-+ inv
++ inv_tdc
 Xs4_106_1
 + vdd
 + vss
 + stage3[53]
 + stage4[106]
-+ inv
++ inv_tdc
 Xs5_106
 + vdd
 + vss
 + stage4[106]
 + stage5[106]
-+ inv
++ inv_tdc
 Xff_106
 + b
 + stage5[106]
@@ -6354,19 +6354,19 @@ Xs4_107_0
 + vss
 + stage3[53]
 + stage4[107]
-+ inv
++ inv_tdc
 Xs4_107_1
 + vdd
 + vss
 + stage3[54]
 + stage4[107]
-+ inv
++ inv_tdc
 Xs5_107
 + vdd
 + vss
 + stage4[107]
 + stage5[107]
-+ inv
++ inv_tdc
 Xff_107
 + b
 + stage5[107]
@@ -6382,19 +6382,19 @@ Xs4_108_0
 + vss
 + stage3[54]
 + stage4[108]
-+ inv
++ inv_tdc
 Xs4_108_1
 + vdd
 + vss
 + stage3[54]
 + stage4[108]
-+ inv
++ inv_tdc
 Xs5_108
 + vdd
 + vss
 + stage4[108]
 + stage5[108]
-+ inv
++ inv_tdc
 Xff_108
 + b
 + stage5[108]
@@ -6410,19 +6410,19 @@ Xs4_109_0
 + vss
 + stage3[54]
 + stage4[109]
-+ inv
++ inv_tdc
 Xs4_109_1
 + vdd
 + vss
 + stage3[55]
 + stage4[109]
-+ inv
++ inv_tdc
 Xs5_109
 + vdd
 + vss
 + stage4[109]
 + stage5[109]
-+ inv
++ inv_tdc
 Xff_109
 + b
 + stage5[109]
@@ -6438,19 +6438,19 @@ Xs4_110_0
 + vss
 + stage3[55]
 + stage4[110]
-+ inv
++ inv_tdc
 Xs4_110_1
 + vdd
 + vss
 + stage3[55]
 + stage4[110]
-+ inv
++ inv_tdc
 Xs5_110
 + vdd
 + vss
 + stage4[110]
 + stage5[110]
-+ inv
++ inv_tdc
 Xff_110
 + b
 + stage5[110]
@@ -6466,19 +6466,19 @@ Xs4_111_0
 + vss
 + stage3[55]
 + stage4[111]
-+ inv
++ inv_tdc
 Xs4_111_1
 + vdd
 + vss
 + stage3[56]
 + stage4[111]
-+ inv
++ inv_tdc
 Xs5_111
 + vdd
 + vss
 + stage4[111]
 + stage5[111]
-+ inv
++ inv_tdc
 Xff_111
 + b
 + stage5[111]
@@ -6494,19 +6494,19 @@ Xs4_112_0
 + vss
 + stage3[56]
 + stage4[112]
-+ inv
++ inv_tdc
 Xs4_112_1
 + vdd
 + vss
 + stage3[56]
 + stage4[112]
-+ inv
++ inv_tdc
 Xs5_112
 + vdd
 + vss
 + stage4[112]
 + stage5[112]
-+ inv
++ inv_tdc
 Xff_112
 + b
 + stage5[112]
@@ -6522,19 +6522,19 @@ Xs4_113_0
 + vss
 + stage3[56]
 + stage4[113]
-+ inv
++ inv_tdc
 Xs4_113_1
 + vdd
 + vss
 + stage3[57]
 + stage4[113]
-+ inv
++ inv_tdc
 Xs5_113
 + vdd
 + vss
 + stage4[113]
 + stage5[113]
-+ inv
++ inv_tdc
 Xff_113
 + b
 + stage5[113]
@@ -6550,19 +6550,19 @@ Xs4_114_0
 + vss
 + stage3[57]
 + stage4[114]
-+ inv
++ inv_tdc
 Xs4_114_1
 + vdd
 + vss
 + stage3[57]
 + stage4[114]
-+ inv
++ inv_tdc
 Xs5_114
 + vdd
 + vss
 + stage4[114]
 + stage5[114]
-+ inv
++ inv_tdc
 Xff_114
 + b
 + stage5[114]
@@ -6578,19 +6578,19 @@ Xs4_115_0
 + vss
 + stage3[57]
 + stage4[115]
-+ inv
++ inv_tdc
 Xs4_115_1
 + vdd
 + vss
 + stage3[58]
 + stage4[115]
-+ inv
++ inv_tdc
 Xs5_115
 + vdd
 + vss
 + stage4[115]
 + stage5[115]
-+ inv
++ inv_tdc
 Xff_115
 + b
 + stage5[115]
@@ -6606,19 +6606,19 @@ Xs4_116_0
 + vss
 + stage3[58]
 + stage4[116]
-+ inv
++ inv_tdc
 Xs4_116_1
 + vdd
 + vss
 + stage3[58]
 + stage4[116]
-+ inv
++ inv_tdc
 Xs5_116
 + vdd
 + vss
 + stage4[116]
 + stage5[116]
-+ inv
++ inv_tdc
 Xff_116
 + b
 + stage5[116]
@@ -6634,19 +6634,19 @@ Xs4_117_0
 + vss
 + stage3[58]
 + stage4[117]
-+ inv
++ inv_tdc
 Xs4_117_1
 + vdd
 + vss
 + stage3[59]
 + stage4[117]
-+ inv
++ inv_tdc
 Xs5_117
 + vdd
 + vss
 + stage4[117]
 + stage5[117]
-+ inv
++ inv_tdc
 Xff_117
 + b
 + stage5[117]
@@ -6662,19 +6662,19 @@ Xs4_118_0
 + vss
 + stage3[59]
 + stage4[118]
-+ inv
++ inv_tdc
 Xs4_118_1
 + vdd
 + vss
 + stage3[59]
 + stage4[118]
-+ inv
++ inv_tdc
 Xs5_118
 + vdd
 + vss
 + stage4[118]
 + stage5[118]
-+ inv
++ inv_tdc
 Xff_118
 + b
 + stage5[118]
@@ -6690,19 +6690,19 @@ Xs4_119_0
 + vss
 + stage3[59]
 + stage4[119]
-+ inv
++ inv_tdc
 Xs4_119_1
 + vdd
 + vss
 + stage3[60]
 + stage4[119]
-+ inv
++ inv_tdc
 Xs5_119
 + vdd
 + vss
 + stage4[119]
 + stage5[119]
-+ inv
++ inv_tdc
 Xff_119
 + b
 + stage5[119]
@@ -6718,19 +6718,19 @@ Xs4_120_0
 + vss
 + stage3[60]
 + stage4[120]
-+ inv
++ inv_tdc
 Xs4_120_1
 + vdd
 + vss
 + stage3[60]
 + stage4[120]
-+ inv
++ inv_tdc
 Xs5_120
 + vdd
 + vss
 + stage4[120]
 + stage5[120]
-+ inv
++ inv_tdc
 Xff_120
 + b
 + stage5[120]
@@ -6746,19 +6746,19 @@ Xs4_121_0
 + vss
 + stage3[60]
 + stage4[121]
-+ inv
++ inv_tdc
 Xs4_121_1
 + vdd
 + vss
 + stage3[61]
 + stage4[121]
-+ inv
++ inv_tdc
 Xs5_121
 + vdd
 + vss
 + stage4[121]
 + stage5[121]
-+ inv
++ inv_tdc
 Xff_121
 + b
 + stage5[121]
@@ -6774,19 +6774,19 @@ Xs4_122_0
 + vss
 + stage3[61]
 + stage4[122]
-+ inv
++ inv_tdc
 Xs4_122_1
 + vdd
 + vss
 + stage3[61]
 + stage4[122]
-+ inv
++ inv_tdc
 Xs5_122
 + vdd
 + vss
 + stage4[122]
 + stage5[122]
-+ inv
++ inv_tdc
 Xff_122
 + b
 + stage5[122]
@@ -6802,19 +6802,19 @@ Xs4_123_0
 + vss
 + stage3[61]
 + stage4[123]
-+ inv
++ inv_tdc
 Xs4_123_1
 + vdd
 + vss
 + stage3[62]
 + stage4[123]
-+ inv
++ inv_tdc
 Xs5_123
 + vdd
 + vss
 + stage4[123]
 + stage5[123]
-+ inv
++ inv_tdc
 Xff_123
 + b
 + stage5[123]
@@ -6830,19 +6830,19 @@ Xs4_124_0
 + vss
 + stage3[62]
 + stage4[124]
-+ inv
++ inv_tdc
 Xs4_124_1
 + vdd
 + vss
 + stage3[62]
 + stage4[124]
-+ inv
++ inv_tdc
 Xs5_124
 + vdd
 + vss
 + stage4[124]
 + stage5[124]
-+ inv
++ inv_tdc
 Xff_124
 + b
 + stage5[124]
@@ -6858,19 +6858,19 @@ Xs4_125_0
 + vss
 + stage3[62]
 + stage4[125]
-+ inv
++ inv_tdc
 Xs4_125_1
 + vdd
 + vss
 + stage3[63]
 + stage4[125]
-+ inv
++ inv_tdc
 Xs5_125
 + vdd
 + vss
 + stage4[125]
 + stage5[125]
-+ inv
++ inv_tdc
 Xff_125
 + b
 + stage5[125]
@@ -6886,19 +6886,19 @@ Xs4_126_0
 + vss
 + stage3[63]
 + stage4[126]
-+ inv
++ inv_tdc
 Xs4_126_1
 + vdd
 + vss
 + stage3[63]
 + stage4[126]
-+ inv
++ inv_tdc
 Xs5_126
 + vdd
 + vss
 + stage4[126]
 + stage5[126]
-+ inv
++ inv_tdc
 Xff_126
 + b
 + stage5[126]
@@ -6914,19 +6914,19 @@ Xs4_127_0
 + vss
 + stage3[63]
 + stage4[127]
-+ inv
++ inv_tdc
 Xs4_127_1
 + vdd
 + vss
 + stage3[64]
 + stage4[127]
-+ inv
++ inv_tdc
 Xs5_127
 + vdd
 + vss
 + stage4[127]
 + stage5[127]
-+ inv
++ inv_tdc
 Xff_127
 + b
 + stage5[127]
@@ -6942,19 +6942,19 @@ Xs4_128_0
 + vss
 + stage3[64]
 + stage4[128]
-+ inv
++ inv_tdc
 Xs4_128_1
 + vdd
 + vss
 + stage3[64]
 + stage4[128]
-+ inv
++ inv_tdc
 Xs5_128
 + vdd
 + vss
 + stage4[128]
 + stage5[128]
-+ inv
++ inv_tdc
 Xff_128
 + b
 + stage5[128]
@@ -6970,19 +6970,19 @@ Xs4_129_0
 + vss
 + stage3[64]
 + stage4[129]
-+ inv
++ inv_tdc
 Xs4_129_1
 + vdd
 + vss
 + stage3[65]
 + stage4[129]
-+ inv
++ inv_tdc
 Xs5_129
 + vdd
 + vss
 + stage4[129]
 + stage5[129]
-+ inv
++ inv_tdc
 Xff_129
 + b
 + stage5[129]
@@ -6998,19 +6998,19 @@ Xs4_130_0
 + vss
 + stage3[65]
 + stage4[130]
-+ inv
++ inv_tdc
 Xs4_130_1
 + vdd
 + vss
 + stage3[65]
 + stage4[130]
-+ inv
++ inv_tdc
 Xs5_130
 + vdd
 + vss
 + stage4[130]
 + stage5[130]
-+ inv
++ inv_tdc
 Xff_130
 + b
 + stage5[130]
@@ -7026,19 +7026,19 @@ Xs4_131_0
 + vss
 + stage3[65]
 + stage4[131]
-+ inv
++ inv_tdc
 Xs4_131_1
 + vdd
 + vss
 + stage3[66]
 + stage4[131]
-+ inv
++ inv_tdc
 Xs5_131
 + vdd
 + vss
 + stage4[131]
 + stage5[131]
-+ inv
++ inv_tdc
 Xff_131
 + b
 + stage5[131]
@@ -7054,19 +7054,19 @@ Xs4_132_0
 + vss
 + stage3[66]
 + stage4[132]
-+ inv
++ inv_tdc
 Xs4_132_1
 + vdd
 + vss
 + stage3[66]
 + stage4[132]
-+ inv
++ inv_tdc
 Xs5_132
 + vdd
 + vss
 + stage4[132]
 + stage5[132]
-+ inv
++ inv_tdc
 Xff_132
 + b
 + stage5[132]
@@ -7082,19 +7082,19 @@ Xs4_133_0
 + vss
 + stage3[66]
 + stage4[133]
-+ inv
++ inv_tdc
 Xs4_133_1
 + vdd
 + vss
 + stage3[67]
 + stage4[133]
-+ inv
++ inv_tdc
 Xs5_133
 + vdd
 + vss
 + stage4[133]
 + stage5[133]
-+ inv
++ inv_tdc
 Xff_133
 + b
 + stage5[133]
@@ -7110,19 +7110,19 @@ Xs4_134_0
 + vss
 + stage3[67]
 + stage4[134]
-+ inv
++ inv_tdc
 Xs4_134_1
 + vdd
 + vss
 + stage3[67]
 + stage4[134]
-+ inv
++ inv_tdc
 Xs5_134
 + vdd
 + vss
 + stage4[134]
 + stage5[134]
-+ inv
++ inv_tdc
 Xff_134
 + b
 + stage5[134]
@@ -7138,19 +7138,19 @@ Xs4_135_0
 + vss
 + stage3[67]
 + stage4[135]
-+ inv
++ inv_tdc
 Xs4_135_1
 + vdd
 + vss
 + stage3[68]
 + stage4[135]
-+ inv
++ inv_tdc
 Xs5_135
 + vdd
 + vss
 + stage4[135]
 + stage5[135]
-+ inv
++ inv_tdc
 Xff_135
 + b
 + stage5[135]
@@ -7166,19 +7166,19 @@ Xs4_136_0
 + vss
 + stage3[68]
 + stage4[136]
-+ inv
++ inv_tdc
 Xs4_136_1
 + vdd
 + vss
 + stage3[68]
 + stage4[136]
-+ inv
++ inv_tdc
 Xs5_136
 + vdd
 + vss
 + stage4[136]
 + stage5[136]
-+ inv
++ inv_tdc
 Xff_136
 + b
 + stage5[136]
@@ -7194,19 +7194,19 @@ Xs4_137_0
 + vss
 + stage3[68]
 + stage4[137]
-+ inv
++ inv_tdc
 Xs4_137_1
 + vdd
 + vss
 + stage3[69]
 + stage4[137]
-+ inv
++ inv_tdc
 Xs5_137
 + vdd
 + vss
 + stage4[137]
 + stage5[137]
-+ inv
++ inv_tdc
 Xff_137
 + b
 + stage5[137]
@@ -7222,19 +7222,19 @@ Xs4_138_0
 + vss
 + stage3[69]
 + stage4[138]
-+ inv
++ inv_tdc
 Xs4_138_1
 + vdd
 + vss
 + stage3[69]
 + stage4[138]
-+ inv
++ inv_tdc
 Xs5_138
 + vdd
 + vss
 + stage4[138]
 + stage5[138]
-+ inv
++ inv_tdc
 Xff_138
 + b
 + stage5[138]
@@ -7250,19 +7250,19 @@ Xs4_139_0
 + vss
 + stage3[69]
 + stage4[139]
-+ inv
++ inv_tdc
 Xs4_139_1
 + vdd
 + vss
 + stage3[70]
 + stage4[139]
-+ inv
++ inv_tdc
 Xs5_139
 + vdd
 + vss
 + stage4[139]
 + stage5[139]
-+ inv
++ inv_tdc
 Xff_139
 + b
 + stage5[139]
@@ -7278,19 +7278,19 @@ Xs4_140_0
 + vss
 + stage3[70]
 + stage4[140]
-+ inv
++ inv_tdc
 Xs4_140_1
 + vdd
 + vss
 + stage3[70]
 + stage4[140]
-+ inv
++ inv_tdc
 Xs5_140
 + vdd
 + vss
 + stage4[140]
 + stage5[140]
-+ inv
++ inv_tdc
 Xff_140
 + b
 + stage5[140]
@@ -7306,19 +7306,19 @@ Xs4_141_0
 + vss
 + stage3[70]
 + stage4[141]
-+ inv
++ inv_tdc
 Xs4_141_1
 + vdd
 + vss
 + stage3[71]
 + stage4[141]
-+ inv
++ inv_tdc
 Xs5_141
 + vdd
 + vss
 + stage4[141]
 + stage5[141]
-+ inv
++ inv_tdc
 Xff_141
 + b
 + stage5[141]
@@ -7334,19 +7334,19 @@ Xs4_142_0
 + vss
 + stage3[71]
 + stage4[142]
-+ inv
++ inv_tdc
 Xs4_142_1
 + vdd
 + vss
 + stage3[71]
 + stage4[142]
-+ inv
++ inv_tdc
 Xs5_142
 + vdd
 + vss
 + stage4[142]
 + stage5[142]
-+ inv
++ inv_tdc
 Xff_142
 + b
 + stage5[142]
@@ -7362,19 +7362,19 @@ Xs4_143_0
 + vss
 + stage3[71]
 + stage4[143]
-+ inv
++ inv_tdc
 Xs4_143_1
 + vdd
 + vss
 + stage3[72]
 + stage4[143]
-+ inv
++ inv_tdc
 Xs5_143
 + vdd
 + vss
 + stage4[143]
 + stage5[143]
-+ inv
++ inv_tdc
 Xff_143
 + b
 + stage5[143]
@@ -7390,19 +7390,19 @@ Xs4_144_0
 + vss
 + stage3[72]
 + stage4[144]
-+ inv
++ inv_tdc
 Xs4_144_1
 + vdd
 + vss
 + stage3[72]
 + stage4[144]
-+ inv
++ inv_tdc
 Xs5_144
 + vdd
 + vss
 + stage4[144]
 + stage5[144]
-+ inv
++ inv_tdc
 Xff_144
 + b
 + stage5[144]
@@ -7418,19 +7418,19 @@ Xs4_145_0
 + vss
 + stage3[72]
 + stage4[145]
-+ inv
++ inv_tdc
 Xs4_145_1
 + vdd
 + vss
 + stage3[73]
 + stage4[145]
-+ inv
++ inv_tdc
 Xs5_145
 + vdd
 + vss
 + stage4[145]
 + stage5[145]
-+ inv
++ inv_tdc
 Xff_145
 + b
 + stage5[145]
@@ -7446,19 +7446,19 @@ Xs4_146_0
 + vss
 + stage3[73]
 + stage4[146]
-+ inv
++ inv_tdc
 Xs4_146_1
 + vdd
 + vss
 + stage3[73]
 + stage4[146]
-+ inv
++ inv_tdc
 Xs5_146
 + vdd
 + vss
 + stage4[146]
 + stage5[146]
-+ inv
++ inv_tdc
 Xff_146
 + b
 + stage5[146]
@@ -7474,19 +7474,19 @@ Xs4_147_0
 + vss
 + stage3[73]
 + stage4[147]
-+ inv
++ inv_tdc
 Xs4_147_1
 + vdd
 + vss
 + stage3[74]
 + stage4[147]
-+ inv
++ inv_tdc
 Xs5_147
 + vdd
 + vss
 + stage4[147]
 + stage5[147]
-+ inv
++ inv_tdc
 Xff_147
 + b
 + stage5[147]
@@ -7502,19 +7502,19 @@ Xs4_148_0
 + vss
 + stage3[74]
 + stage4[148]
-+ inv
++ inv_tdc
 Xs4_148_1
 + vdd
 + vss
 + stage3[74]
 + stage4[148]
-+ inv
++ inv_tdc
 Xs5_148
 + vdd
 + vss
 + stage4[148]
 + stage5[148]
-+ inv
++ inv_tdc
 Xff_148
 + b
 + stage5[148]
@@ -7530,19 +7530,19 @@ Xs4_149_0
 + vss
 + stage3[74]
 + stage4[149]
-+ inv
++ inv_tdc
 Xs4_149_1
 + vdd
 + vss
 + stage3[75]
 + stage4[149]
-+ inv
++ inv_tdc
 Xs5_149
 + vdd
 + vss
 + stage4[149]
 + stage5[149]
-+ inv
++ inv_tdc
 Xff_149
 + b
 + stage5[149]
@@ -7558,19 +7558,19 @@ Xs4_150_0
 + vss
 + stage3[75]
 + stage4[150]
-+ inv
++ inv_tdc
 Xs4_150_1
 + vdd
 + vss
 + stage3[75]
 + stage4[150]
-+ inv
++ inv_tdc
 Xs5_150
 + vdd
 + vss
 + stage4[150]
 + stage5[150]
-+ inv
++ inv_tdc
 Xff_150
 + b
 + stage5[150]
@@ -7586,19 +7586,19 @@ Xs4_151_0
 + vss
 + stage3[75]
 + stage4[151]
-+ inv
++ inv_tdc
 Xs4_151_1
 + vdd
 + vss
 + stage3[76]
 + stage4[151]
-+ inv
++ inv_tdc
 Xs5_151
 + vdd
 + vss
 + stage4[151]
 + stage5[151]
-+ inv
++ inv_tdc
 Xff_151
 + b
 + stage5[151]
@@ -7614,19 +7614,19 @@ Xs4_152_0
 + vss
 + stage3[76]
 + stage4[152]
-+ inv
++ inv_tdc
 Xs4_152_1
 + vdd
 + vss
 + stage3[76]
 + stage4[152]
-+ inv
++ inv_tdc
 Xs5_152
 + vdd
 + vss
 + stage4[152]
 + stage5[152]
-+ inv
++ inv_tdc
 Xff_152
 + b
 + stage5[152]
@@ -7642,19 +7642,19 @@ Xs4_153_0
 + vss
 + stage3[76]
 + stage4[153]
-+ inv
++ inv_tdc
 Xs4_153_1
 + vdd
 + vss
 + stage3[77]
 + stage4[153]
-+ inv
++ inv_tdc
 Xs5_153
 + vdd
 + vss
 + stage4[153]
 + stage5[153]
-+ inv
++ inv_tdc
 Xff_153
 + b
 + stage5[153]
@@ -7670,19 +7670,19 @@ Xs4_154_0
 + vss
 + stage3[77]
 + stage4[154]
-+ inv
++ inv_tdc
 Xs4_154_1
 + vdd
 + vss
 + stage3[77]
 + stage4[154]
-+ inv
++ inv_tdc
 Xs5_154
 + vdd
 + vss
 + stage4[154]
 + stage5[154]
-+ inv
++ inv_tdc
 Xff_154
 + b
 + stage5[154]
@@ -7698,19 +7698,19 @@ Xs4_155_0
 + vss
 + stage3[77]
 + stage4[155]
-+ inv
++ inv_tdc
 Xs4_155_1
 + vdd
 + vss
 + stage3[78]
 + stage4[155]
-+ inv
++ inv_tdc
 Xs5_155
 + vdd
 + vss
 + stage4[155]
 + stage5[155]
-+ inv
++ inv_tdc
 Xff_155
 + b
 + stage5[155]
@@ -7726,19 +7726,19 @@ Xs4_156_0
 + vss
 + stage3[78]
 + stage4[156]
-+ inv
++ inv_tdc
 Xs4_156_1
 + vdd
 + vss
 + stage3[78]
 + stage4[156]
-+ inv
++ inv_tdc
 Xs5_156
 + vdd
 + vss
 + stage4[156]
 + stage5[156]
-+ inv
++ inv_tdc
 Xff_156
 + b
 + stage5[156]
@@ -7754,19 +7754,19 @@ Xs4_157_0
 + vss
 + stage3[78]
 + stage4[157]
-+ inv
++ inv_tdc
 Xs4_157_1
 + vdd
 + vss
 + stage3[79]
 + stage4[157]
-+ inv
++ inv_tdc
 Xs5_157
 + vdd
 + vss
 + stage4[157]
 + stage5[157]
-+ inv
++ inv_tdc
 Xff_157
 + b
 + stage5[157]
@@ -7782,19 +7782,19 @@ Xs4_158_0
 + vss
 + stage3[79]
 + stage4[158]
-+ inv
++ inv_tdc
 Xs4_158_1
 + vdd
 + vss
 + stage3[79]
 + stage4[158]
-+ inv
++ inv_tdc
 Xs5_158
 + vdd
 + vss
 + stage4[158]
 + stage5[158]
-+ inv
++ inv_tdc
 Xff_158
 + b
 + stage5[158]
@@ -7810,19 +7810,19 @@ Xs4_159_0
 + vss
 + stage3[79]
 + stage4[159]
-+ inv
++ inv_tdc
 Xs4_159_1
 + vdd
 + vss
 + stage3[80]
 + stage4[159]
-+ inv
++ inv_tdc
 Xs5_159
 + vdd
 + vss
 + stage4[159]
 + stage5[159]
-+ inv
++ inv_tdc
 Xff_159
 + b
 + stage5[159]
@@ -7838,19 +7838,19 @@ Xs4_160_0
 + vss
 + stage3[80]
 + stage4[160]
-+ inv
++ inv_tdc
 Xs4_160_1
 + vdd
 + vss
 + stage3[80]
 + stage4[160]
-+ inv
++ inv_tdc
 Xs5_160
 + vdd
 + vss
 + stage4[160]
 + stage5[160]
-+ inv
++ inv_tdc
 Xff_160
 + b
 + stage5[160]
@@ -7866,19 +7866,19 @@ Xs4_161_0
 + vss
 + stage3[80]
 + stage4[161]
-+ inv
++ inv_tdc
 Xs4_161_1
 + vdd
 + vss
 + stage3[81]
 + stage4[161]
-+ inv
++ inv_tdc
 Xs5_161
 + vdd
 + vss
 + stage4[161]
 + stage5[161]
-+ inv
++ inv_tdc
 Xff_161
 + b
 + stage5[161]
@@ -7894,19 +7894,19 @@ Xs4_162_0
 + vss
 + stage3[81]
 + stage4[162]
-+ inv
++ inv_tdc
 Xs4_162_1
 + vdd
 + vss
 + stage3[81]
 + stage4[162]
-+ inv
++ inv_tdc
 Xs5_162
 + vdd
 + vss
 + stage4[162]
 + stage5[162]
-+ inv
++ inv_tdc
 Xff_162
 + b
 + stage5[162]
@@ -7922,19 +7922,19 @@ Xs4_163_0
 + vss
 + stage3[81]
 + stage4[163]
-+ inv
++ inv_tdc
 Xs4_163_1
 + vdd
 + vss
 + stage3[82]
 + stage4[163]
-+ inv
++ inv_tdc
 Xs5_163
 + vdd
 + vss
 + stage4[163]
 + stage5[163]
-+ inv
++ inv_tdc
 Xff_163
 + b
 + stage5[163]
@@ -7950,19 +7950,19 @@ Xs4_164_0
 + vss
 + stage3[82]
 + stage4[164]
-+ inv
++ inv_tdc
 Xs4_164_1
 + vdd
 + vss
 + stage3[82]
 + stage4[164]
-+ inv
++ inv_tdc
 Xs5_164
 + vdd
 + vss
 + stage4[164]
 + stage5[164]
-+ inv
++ inv_tdc
 Xff_164
 + b
 + stage5[164]
@@ -7978,19 +7978,19 @@ Xs4_165_0
 + vss
 + stage3[82]
 + stage4[165]
-+ inv
++ inv_tdc
 Xs4_165_1
 + vdd
 + vss
 + stage3[83]
 + stage4[165]
-+ inv
++ inv_tdc
 Xs5_165
 + vdd
 + vss
 + stage4[165]
 + stage5[165]
-+ inv
++ inv_tdc
 Xff_165
 + b
 + stage5[165]
@@ -8006,19 +8006,19 @@ Xs4_166_0
 + vss
 + stage3[83]
 + stage4[166]
-+ inv
++ inv_tdc
 Xs4_166_1
 + vdd
 + vss
 + stage3[83]
 + stage4[166]
-+ inv
++ inv_tdc
 Xs5_166
 + vdd
 + vss
 + stage4[166]
 + stage5[166]
-+ inv
++ inv_tdc
 Xff_166
 + b
 + stage5[166]
@@ -8034,19 +8034,19 @@ Xs4_167_0
 + vss
 + stage3[83]
 + stage4[167]
-+ inv
++ inv_tdc
 Xs4_167_1
 + vdd
 + vss
 + stage3[84]
 + stage4[167]
-+ inv
++ inv_tdc
 Xs5_167
 + vdd
 + vss
 + stage4[167]
 + stage5[167]
-+ inv
++ inv_tdc
 Xff_167
 + b
 + stage5[167]
@@ -8062,19 +8062,19 @@ Xs4_168_0
 + vss
 + stage3[84]
 + stage4[168]
-+ inv
++ inv_tdc
 Xs4_168_1
 + vdd
 + vss
 + stage3[84]
 + stage4[168]
-+ inv
++ inv_tdc
 Xs5_168
 + vdd
 + vss
 + stage4[168]
 + stage5[168]
-+ inv
++ inv_tdc
 Xff_168
 + b
 + stage5[168]
@@ -8090,19 +8090,19 @@ Xs4_169_0
 + vss
 + stage3[84]
 + stage4[169]
-+ inv
++ inv_tdc
 Xs4_169_1
 + vdd
 + vss
 + stage3[85]
 + stage4[169]
-+ inv
++ inv_tdc
 Xs5_169
 + vdd
 + vss
 + stage4[169]
 + stage5[169]
-+ inv
++ inv_tdc
 Xff_169
 + b
 + stage5[169]
@@ -8118,19 +8118,19 @@ Xs4_170_0
 + vss
 + stage3[85]
 + stage4[170]
-+ inv
++ inv_tdc
 Xs4_170_1
 + vdd
 + vss
 + stage3[85]
 + stage4[170]
-+ inv
++ inv_tdc
 Xs5_170
 + vdd
 + vss
 + stage4[170]
 + stage5[170]
-+ inv
++ inv_tdc
 Xff_170
 + b
 + stage5[170]
@@ -8146,19 +8146,19 @@ Xs4_171_0
 + vss
 + stage3[85]
 + stage4[171]
-+ inv
++ inv_tdc
 Xs4_171_1
 + vdd
 + vss
 + stage3[86]
 + stage4[171]
-+ inv
++ inv_tdc
 Xs5_171
 + vdd
 + vss
 + stage4[171]
 + stage5[171]
-+ inv
++ inv_tdc
 Xff_171
 + b
 + stage5[171]
@@ -8174,19 +8174,19 @@ Xs4_172_0
 + vss
 + stage3[86]
 + stage4[172]
-+ inv
++ inv_tdc
 Xs4_172_1
 + vdd
 + vss
 + stage3[86]
 + stage4[172]
-+ inv
++ inv_tdc
 Xs5_172
 + vdd
 + vss
 + stage4[172]
 + stage5[172]
-+ inv
++ inv_tdc
 Xff_172
 + b
 + stage5[172]
@@ -8202,19 +8202,19 @@ Xs4_173_0
 + vss
 + stage3[86]
 + stage4[173]
-+ inv
++ inv_tdc
 Xs4_173_1
 + vdd
 + vss
 + stage3[87]
 + stage4[173]
-+ inv
++ inv_tdc
 Xs5_173
 + vdd
 + vss
 + stage4[173]
 + stage5[173]
-+ inv
++ inv_tdc
 Xff_173
 + b
 + stage5[173]
@@ -8230,19 +8230,19 @@ Xs4_174_0
 + vss
 + stage3[87]
 + stage4[174]
-+ inv
++ inv_tdc
 Xs4_174_1
 + vdd
 + vss
 + stage3[87]
 + stage4[174]
-+ inv
++ inv_tdc
 Xs5_174
 + vdd
 + vss
 + stage4[174]
 + stage5[174]
-+ inv
++ inv_tdc
 Xff_174
 + b
 + stage5[174]
@@ -8258,19 +8258,19 @@ Xs4_175_0
 + vss
 + stage3[87]
 + stage4[175]
-+ inv
++ inv_tdc
 Xs4_175_1
 + vdd
 + vss
 + stage3[88]
 + stage4[175]
-+ inv
++ inv_tdc
 Xs5_175
 + vdd
 + vss
 + stage4[175]
 + stage5[175]
-+ inv
++ inv_tdc
 Xff_175
 + b
 + stage5[175]
@@ -8286,19 +8286,19 @@ Xs4_176_0
 + vss
 + stage3[88]
 + stage4[176]
-+ inv
++ inv_tdc
 Xs4_176_1
 + vdd
 + vss
 + stage3[88]
 + stage4[176]
-+ inv
++ inv_tdc
 Xs5_176
 + vdd
 + vss
 + stage4[176]
 + stage5[176]
-+ inv
++ inv_tdc
 Xff_176
 + b
 + stage5[176]
@@ -8314,19 +8314,19 @@ Xs4_177_0
 + vss
 + stage3[88]
 + stage4[177]
-+ inv
++ inv_tdc
 Xs4_177_1
 + vdd
 + vss
 + stage3[89]
 + stage4[177]
-+ inv
++ inv_tdc
 Xs5_177
 + vdd
 + vss
 + stage4[177]
 + stage5[177]
-+ inv
++ inv_tdc
 Xff_177
 + b
 + stage5[177]
@@ -8342,19 +8342,19 @@ Xs4_178_0
 + vss
 + stage3[89]
 + stage4[178]
-+ inv
++ inv_tdc
 Xs4_178_1
 + vdd
 + vss
 + stage3[89]
 + stage4[178]
-+ inv
++ inv_tdc
 Xs5_178
 + vdd
 + vss
 + stage4[178]
 + stage5[178]
-+ inv
++ inv_tdc
 Xff_178
 + b
 + stage5[178]
@@ -8370,19 +8370,19 @@ Xs4_179_0
 + vss
 + stage3[89]
 + stage4[179]
-+ inv
++ inv_tdc
 Xs4_179_1
 + vdd
 + vss
 + stage3[90]
 + stage4[179]
-+ inv
++ inv_tdc
 Xs5_179
 + vdd
 + vss
 + stage4[179]
 + stage5[179]
-+ inv
++ inv_tdc
 Xff_179
 + b
 + stage5[179]
@@ -8398,19 +8398,19 @@ Xs4_180_0
 + vss
 + stage3[90]
 + stage4[180]
-+ inv
++ inv_tdc
 Xs4_180_1
 + vdd
 + vss
 + stage3[90]
 + stage4[180]
-+ inv
++ inv_tdc
 Xs5_180
 + vdd
 + vss
 + stage4[180]
 + stage5[180]
-+ inv
++ inv_tdc
 Xff_180
 + b
 + stage5[180]
@@ -8426,19 +8426,19 @@ Xs4_181_0
 + vss
 + stage3[90]
 + stage4[181]
-+ inv
++ inv_tdc
 Xs4_181_1
 + vdd
 + vss
 + stage3[91]
 + stage4[181]
-+ inv
++ inv_tdc
 Xs5_181
 + vdd
 + vss
 + stage4[181]
 + stage5[181]
-+ inv
++ inv_tdc
 Xff_181
 + b
 + stage5[181]
@@ -8454,19 +8454,19 @@ Xs4_182_0
 + vss
 + stage3[91]
 + stage4[182]
-+ inv
++ inv_tdc
 Xs4_182_1
 + vdd
 + vss
 + stage3[91]
 + stage4[182]
-+ inv
++ inv_tdc
 Xs5_182
 + vdd
 + vss
 + stage4[182]
 + stage5[182]
-+ inv
++ inv_tdc
 Xff_182
 + b
 + stage5[182]
@@ -8482,19 +8482,19 @@ Xs4_183_0
 + vss
 + stage3[91]
 + stage4[183]
-+ inv
++ inv_tdc
 Xs4_183_1
 + vdd
 + vss
 + stage3[92]
 + stage4[183]
-+ inv
++ inv_tdc
 Xs5_183
 + vdd
 + vss
 + stage4[183]
 + stage5[183]
-+ inv
++ inv_tdc
 Xff_183
 + b
 + stage5[183]
@@ -8510,19 +8510,19 @@ Xs4_184_0
 + vss
 + stage3[92]
 + stage4[184]
-+ inv
++ inv_tdc
 Xs4_184_1
 + vdd
 + vss
 + stage3[92]
 + stage4[184]
-+ inv
++ inv_tdc
 Xs5_184
 + vdd
 + vss
 + stage4[184]
 + stage5[184]
-+ inv
++ inv_tdc
 Xff_184
 + b
 + stage5[184]
@@ -8538,19 +8538,19 @@ Xs4_185_0
 + vss
 + stage3[92]
 + stage4[185]
-+ inv
++ inv_tdc
 Xs4_185_1
 + vdd
 + vss
 + stage3[93]
 + stage4[185]
-+ inv
++ inv_tdc
 Xs5_185
 + vdd
 + vss
 + stage4[185]
 + stage5[185]
-+ inv
++ inv_tdc
 Xff_185
 + b
 + stage5[185]
@@ -8566,19 +8566,19 @@ Xs4_186_0
 + vss
 + stage3[93]
 + stage4[186]
-+ inv
++ inv_tdc
 Xs4_186_1
 + vdd
 + vss
 + stage3[93]
 + stage4[186]
-+ inv
++ inv_tdc
 Xs5_186
 + vdd
 + vss
 + stage4[186]
 + stage5[186]
-+ inv
++ inv_tdc
 Xff_186
 + b
 + stage5[186]
@@ -8594,19 +8594,19 @@ Xs4_187_0
 + vss
 + stage3[93]
 + stage4[187]
-+ inv
++ inv_tdc
 Xs4_187_1
 + vdd
 + vss
 + stage3[94]
 + stage4[187]
-+ inv
++ inv_tdc
 Xs5_187
 + vdd
 + vss
 + stage4[187]
 + stage5[187]
-+ inv
++ inv_tdc
 Xff_187
 + b
 + stage5[187]
@@ -8622,19 +8622,19 @@ Xs4_188_0
 + vss
 + stage3[94]
 + stage4[188]
-+ inv
++ inv_tdc
 Xs4_188_1
 + vdd
 + vss
 + stage3[94]
 + stage4[188]
-+ inv
++ inv_tdc
 Xs5_188
 + vdd
 + vss
 + stage4[188]
 + stage5[188]
-+ inv
++ inv_tdc
 Xff_188
 + b
 + stage5[188]
@@ -8650,19 +8650,19 @@ Xs4_189_0
 + vss
 + stage3[94]
 + stage4[189]
-+ inv
++ inv_tdc
 Xs4_189_1
 + vdd
 + vss
 + stage3[95]
 + stage4[189]
-+ inv
++ inv_tdc
 Xs5_189
 + vdd
 + vss
 + stage4[189]
 + stage5[189]
-+ inv
++ inv_tdc
 Xff_189
 + b
 + stage5[189]
@@ -8678,19 +8678,19 @@ Xs4_190_0
 + vss
 + stage3[95]
 + stage4[190]
-+ inv
++ inv_tdc
 Xs4_190_1
 + vdd
 + vss
 + stage3[95]
 + stage4[190]
-+ inv
++ inv_tdc
 Xs5_190
 + vdd
 + vss
 + stage4[190]
 + stage5[190]
-+ inv
++ inv_tdc
 Xff_190
 + b
 + stage5[190]
@@ -8706,19 +8706,19 @@ Xs4_191_0
 + vss
 + stage3[95]
 + stage4[191]
-+ inv
++ inv_tdc
 Xs4_191_1
 + vdd
 + vss
 + stage3[96]
 + stage4[191]
-+ inv
++ inv_tdc
 Xs5_191
 + vdd
 + vss
 + stage4[191]
 + stage5[191]
-+ inv
++ inv_tdc
 Xff_191
 + b
 + stage5[191]
@@ -8734,19 +8734,19 @@ Xs4_192_0
 + vss
 + stage3[96]
 + stage4[192]
-+ inv
++ inv_tdc
 Xs4_192_1
 + vdd
 + vss
 + stage3[96]
 + stage4[192]
-+ inv
++ inv_tdc
 Xs5_192
 + vdd
 + vss
 + stage4[192]
 + stage5[192]
-+ inv
++ inv_tdc
 Xff_192
 + b
 + stage5[192]
@@ -8762,19 +8762,19 @@ Xs4_193_0
 + vss
 + stage3[96]
 + stage4[193]
-+ inv
++ inv_tdc
 Xs4_193_1
 + vdd
 + vss
 + stage3[97]
 + stage4[193]
-+ inv
++ inv_tdc
 Xs5_193
 + vdd
 + vss
 + stage4[193]
 + stage5[193]
-+ inv
++ inv_tdc
 Xff_193
 + b
 + stage5[193]
@@ -8790,19 +8790,19 @@ Xs4_194_0
 + vss
 + stage3[97]
 + stage4[194]
-+ inv
++ inv_tdc
 Xs4_194_1
 + vdd
 + vss
 + stage3[97]
 + stage4[194]
-+ inv
++ inv_tdc
 Xs5_194
 + vdd
 + vss
 + stage4[194]
 + stage5[194]
-+ inv
++ inv_tdc
 Xff_194
 + b
 + stage5[194]
@@ -8818,19 +8818,19 @@ Xs4_195_0
 + vss
 + stage3[97]
 + stage4[195]
-+ inv
++ inv_tdc
 Xs4_195_1
 + vdd
 + vss
 + stage3[98]
 + stage4[195]
-+ inv
++ inv_tdc
 Xs5_195
 + vdd
 + vss
 + stage4[195]
 + stage5[195]
-+ inv
++ inv_tdc
 Xff_195
 + b
 + stage5[195]
@@ -8846,19 +8846,19 @@ Xs4_196_0
 + vss
 + stage3[98]
 + stage4[196]
-+ inv
++ inv_tdc
 Xs4_196_1
 + vdd
 + vss
 + stage3[98]
 + stage4[196]
-+ inv
++ inv_tdc
 Xs5_196
 + vdd
 + vss
 + stage4[196]
 + stage5[196]
-+ inv
++ inv_tdc
 Xff_196
 + b
 + stage5[196]
@@ -8874,19 +8874,19 @@ Xs4_197_0
 + vss
 + stage3[98]
 + stage4[197]
-+ inv
++ inv_tdc
 Xs4_197_1
 + vdd
 + vss
 + stage3[99]
 + stage4[197]
-+ inv
++ inv_tdc
 Xs5_197
 + vdd
 + vss
 + stage4[197]
 + stage5[197]
-+ inv
++ inv_tdc
 Xff_197
 + b
 + stage5[197]
@@ -8902,19 +8902,19 @@ Xs4_198_0
 + vss
 + stage3[99]
 + stage4[198]
-+ inv
++ inv_tdc
 Xs4_198_1
 + vdd
 + vss
 + stage3[99]
 + stage4[198]
-+ inv
++ inv_tdc
 Xs5_198
 + vdd
 + vss
 + stage4[198]
 + stage5[198]
-+ inv
++ inv_tdc
 Xff_198
 + b
 + stage5[198]
@@ -8930,19 +8930,19 @@ Xs4_199_0
 + vss
 + stage3[99]
 + stage4[199]
-+ inv
++ inv_tdc
 Xs4_199_1
 + vdd
 + vss
 + stage3[100]
 + stage4[199]
-+ inv
++ inv_tdc
 Xs5_199
 + vdd
 + vss
 + stage4[199]
 + stage5[199]
-+ inv
++ inv_tdc
 Xff_199
 + b
 + stage5[199]
@@ -8958,19 +8958,19 @@ Xs4_200_0
 + vss
 + stage3[100]
 + stage4[200]
-+ inv
++ inv_tdc
 Xs4_200_1
 + vdd
 + vss
 + stage3[100]
 + stage4[200]
-+ inv
++ inv_tdc
 Xs5_200
 + vdd
 + vss
 + stage4[200]
 + stage5[200]
-+ inv
++ inv_tdc
 Xff_200
 + b
 + stage5[200]
@@ -8986,19 +8986,19 @@ Xs4_201_0
 + vss
 + stage3[100]
 + stage4[201]
-+ inv
++ inv_tdc
 Xs4_201_1
 + vdd
 + vss
 + stage3[101]
 + stage4[201]
-+ inv
++ inv_tdc
 Xs5_201
 + vdd
 + vss
 + stage4[201]
 + stage5[201]
-+ inv
++ inv_tdc
 Xff_201
 + b
 + stage5[201]
@@ -9014,19 +9014,19 @@ Xs4_202_0
 + vss
 + stage3[101]
 + stage4[202]
-+ inv
++ inv_tdc
 Xs4_202_1
 + vdd
 + vss
 + stage3[101]
 + stage4[202]
-+ inv
++ inv_tdc
 Xs5_202
 + vdd
 + vss
 + stage4[202]
 + stage5[202]
-+ inv
++ inv_tdc
 Xff_202
 + b
 + stage5[202]
@@ -9042,19 +9042,19 @@ Xs4_203_0
 + vss
 + stage3[101]
 + stage4[203]
-+ inv
++ inv_tdc
 Xs4_203_1
 + vdd
 + vss
 + stage3[102]
 + stage4[203]
-+ inv
++ inv_tdc
 Xs5_203
 + vdd
 + vss
 + stage4[203]
 + stage5[203]
-+ inv
++ inv_tdc
 Xff_203
 + b
 + stage5[203]
@@ -9070,19 +9070,19 @@ Xs4_204_0
 + vss
 + stage3[102]
 + stage4[204]
-+ inv
++ inv_tdc
 Xs4_204_1
 + vdd
 + vss
 + stage3[102]
 + stage4[204]
-+ inv
++ inv_tdc
 Xs5_204
 + vdd
 + vss
 + stage4[204]
 + stage5[204]
-+ inv
++ inv_tdc
 Xff_204
 + b
 + stage5[204]
@@ -9098,19 +9098,19 @@ Xs4_205_0
 + vss
 + stage3[102]
 + stage4[205]
-+ inv
++ inv_tdc
 Xs4_205_1
 + vdd
 + vss
 + stage3[103]
 + stage4[205]
-+ inv
++ inv_tdc
 Xs5_205
 + vdd
 + vss
 + stage4[205]
 + stage5[205]
-+ inv
++ inv_tdc
 Xff_205
 + b
 + stage5[205]
@@ -9126,19 +9126,19 @@ Xs4_206_0
 + vss
 + stage3[103]
 + stage4[206]
-+ inv
++ inv_tdc
 Xs4_206_1
 + vdd
 + vss
 + stage3[103]
 + stage4[206]
-+ inv
++ inv_tdc
 Xs5_206
 + vdd
 + vss
 + stage4[206]
 + stage5[206]
-+ inv
++ inv_tdc
 Xff_206
 + b
 + stage5[206]
@@ -9154,19 +9154,19 @@ Xs4_207_0
 + vss
 + stage3[103]
 + stage4[207]
-+ inv
++ inv_tdc
 Xs4_207_1
 + vdd
 + vss
 + stage3[104]
 + stage4[207]
-+ inv
++ inv_tdc
 Xs5_207
 + vdd
 + vss
 + stage4[207]
 + stage5[207]
-+ inv
++ inv_tdc
 Xff_207
 + b
 + stage5[207]
@@ -9182,19 +9182,19 @@ Xs4_208_0
 + vss
 + stage3[104]
 + stage4[208]
-+ inv
++ inv_tdc
 Xs4_208_1
 + vdd
 + vss
 + stage3[104]
 + stage4[208]
-+ inv
++ inv_tdc
 Xs5_208
 + vdd
 + vss
 + stage4[208]
 + stage5[208]
-+ inv
++ inv_tdc
 Xff_208
 + b
 + stage5[208]
@@ -9210,19 +9210,19 @@ Xs4_209_0
 + vss
 + stage3[104]
 + stage4[209]
-+ inv
++ inv_tdc
 Xs4_209_1
 + vdd
 + vss
 + stage3[105]
 + stage4[209]
-+ inv
++ inv_tdc
 Xs5_209
 + vdd
 + vss
 + stage4[209]
 + stage5[209]
-+ inv
++ inv_tdc
 Xff_209
 + b
 + stage5[209]
@@ -9238,19 +9238,19 @@ Xs4_210_0
 + vss
 + stage3[105]
 + stage4[210]
-+ inv
++ inv_tdc
 Xs4_210_1
 + vdd
 + vss
 + stage3[105]
 + stage4[210]
-+ inv
++ inv_tdc
 Xs5_210
 + vdd
 + vss
 + stage4[210]
 + stage5[210]
-+ inv
++ inv_tdc
 Xff_210
 + b
 + stage5[210]
@@ -9266,19 +9266,19 @@ Xs4_211_0
 + vss
 + stage3[105]
 + stage4[211]
-+ inv
++ inv_tdc
 Xs4_211_1
 + vdd
 + vss
 + stage3[106]
 + stage4[211]
-+ inv
++ inv_tdc
 Xs5_211
 + vdd
 + vss
 + stage4[211]
 + stage5[211]
-+ inv
++ inv_tdc
 Xff_211
 + b
 + stage5[211]
@@ -9294,19 +9294,19 @@ Xs4_212_0
 + vss
 + stage3[106]
 + stage4[212]
-+ inv
++ inv_tdc
 Xs4_212_1
 + vdd
 + vss
 + stage3[106]
 + stage4[212]
-+ inv
++ inv_tdc
 Xs5_212
 + vdd
 + vss
 + stage4[212]
 + stage5[212]
-+ inv
++ inv_tdc
 Xff_212
 + b
 + stage5[212]
@@ -9322,19 +9322,19 @@ Xs4_213_0
 + vss
 + stage3[106]
 + stage4[213]
-+ inv
++ inv_tdc
 Xs4_213_1
 + vdd
 + vss
 + stage3[107]
 + stage4[213]
-+ inv
++ inv_tdc
 Xs5_213
 + vdd
 + vss
 + stage4[213]
 + stage5[213]
-+ inv
++ inv_tdc
 Xff_213
 + b
 + stage5[213]
@@ -9350,19 +9350,19 @@ Xs4_214_0
 + vss
 + stage3[107]
 + stage4[214]
-+ inv
++ inv_tdc
 Xs4_214_1
 + vdd
 + vss
 + stage3[107]
 + stage4[214]
-+ inv
++ inv_tdc
 Xs5_214
 + vdd
 + vss
 + stage4[214]
 + stage5[214]
-+ inv
++ inv_tdc
 Xff_214
 + b
 + stage5[214]
@@ -9378,19 +9378,19 @@ Xs4_215_0
 + vss
 + stage3[107]
 + stage4[215]
-+ inv
++ inv_tdc
 Xs4_215_1
 + vdd
 + vss
 + stage3[108]
 + stage4[215]
-+ inv
++ inv_tdc
 Xs5_215
 + vdd
 + vss
 + stage4[215]
 + stage5[215]
-+ inv
++ inv_tdc
 Xff_215
 + b
 + stage5[215]
@@ -9406,19 +9406,19 @@ Xs4_216_0
 + vss
 + stage3[108]
 + stage4[216]
-+ inv
++ inv_tdc
 Xs4_216_1
 + vdd
 + vss
 + stage3[108]
 + stage4[216]
-+ inv
++ inv_tdc
 Xs5_216
 + vdd
 + vss
 + stage4[216]
 + stage5[216]
-+ inv
++ inv_tdc
 Xff_216
 + b
 + stage5[216]
@@ -9434,19 +9434,19 @@ Xs4_217_0
 + vss
 + stage3[108]
 + stage4[217]
-+ inv
++ inv_tdc
 Xs4_217_1
 + vdd
 + vss
 + stage3[109]
 + stage4[217]
-+ inv
++ inv_tdc
 Xs5_217
 + vdd
 + vss
 + stage4[217]
 + stage5[217]
-+ inv
++ inv_tdc
 Xff_217
 + b
 + stage5[217]
@@ -9462,19 +9462,19 @@ Xs4_218_0
 + vss
 + stage3[109]
 + stage4[218]
-+ inv
++ inv_tdc
 Xs4_218_1
 + vdd
 + vss
 + stage3[109]
 + stage4[218]
-+ inv
++ inv_tdc
 Xs5_218
 + vdd
 + vss
 + stage4[218]
 + stage5[218]
-+ inv
++ inv_tdc
 Xff_218
 + b
 + stage5[218]
@@ -9490,19 +9490,19 @@ Xs4_219_0
 + vss
 + stage3[109]
 + stage4[219]
-+ inv
++ inv_tdc
 Xs4_219_1
 + vdd
 + vss
 + stage3[110]
 + stage4[219]
-+ inv
++ inv_tdc
 Xs5_219
 + vdd
 + vss
 + stage4[219]
 + stage5[219]
-+ inv
++ inv_tdc
 Xff_219
 + b
 + stage5[219]
@@ -9518,19 +9518,19 @@ Xs4_220_0
 + vss
 + stage3[110]
 + stage4[220]
-+ inv
++ inv_tdc
 Xs4_220_1
 + vdd
 + vss
 + stage3[110]
 + stage4[220]
-+ inv
++ inv_tdc
 Xs5_220
 + vdd
 + vss
 + stage4[220]
 + stage5[220]
-+ inv
++ inv_tdc
 Xff_220
 + b
 + stage5[220]
@@ -9546,19 +9546,19 @@ Xs4_221_0
 + vss
 + stage3[110]
 + stage4[221]
-+ inv
++ inv_tdc
 Xs4_221_1
 + vdd
 + vss
 + stage3[111]
 + stage4[221]
-+ inv
++ inv_tdc
 Xs5_221
 + vdd
 + vss
 + stage4[221]
 + stage5[221]
-+ inv
++ inv_tdc
 Xff_221
 + b
 + stage5[221]
@@ -9574,19 +9574,19 @@ Xs4_222_0
 + vss
 + stage3[111]
 + stage4[222]
-+ inv
++ inv_tdc
 Xs4_222_1
 + vdd
 + vss
 + stage3[111]
 + stage4[222]
-+ inv
++ inv_tdc
 Xs5_222
 + vdd
 + vss
 + stage4[222]
 + stage5[222]
-+ inv
++ inv_tdc
 Xff_222
 + b
 + stage5[222]
@@ -9602,19 +9602,19 @@ Xs4_223_0
 + vss
 + stage3[111]
 + stage4[223]
-+ inv
++ inv_tdc
 Xs4_223_1
 + vdd
 + vss
 + stage3[112]
 + stage4[223]
-+ inv
++ inv_tdc
 Xs5_223
 + vdd
 + vss
 + stage4[223]
 + stage5[223]
-+ inv
++ inv_tdc
 Xff_223
 + b
 + stage5[223]
@@ -9630,19 +9630,19 @@ Xs4_224_0
 + vss
 + stage3[112]
 + stage4[224]
-+ inv
++ inv_tdc
 Xs4_224_1
 + vdd
 + vss
 + stage3[112]
 + stage4[224]
-+ inv
++ inv_tdc
 Xs5_224
 + vdd
 + vss
 + stage4[224]
 + stage5[224]
-+ inv
++ inv_tdc
 Xff_224
 + b
 + stage5[224]
@@ -9658,19 +9658,19 @@ Xs4_225_0
 + vss
 + stage3[112]
 + stage4[225]
-+ inv
++ inv_tdc
 Xs4_225_1
 + vdd
 + vss
 + stage3[113]
 + stage4[225]
-+ inv
++ inv_tdc
 Xs5_225
 + vdd
 + vss
 + stage4[225]
 + stage5[225]
-+ inv
++ inv_tdc
 Xff_225
 + b
 + stage5[225]
@@ -9686,19 +9686,19 @@ Xs4_226_0
 + vss
 + stage3[113]
 + stage4[226]
-+ inv
++ inv_tdc
 Xs4_226_1
 + vdd
 + vss
 + stage3[113]
 + stage4[226]
-+ inv
++ inv_tdc
 Xs5_226
 + vdd
 + vss
 + stage4[226]
 + stage5[226]
-+ inv
++ inv_tdc
 Xff_226
 + b
 + stage5[226]
@@ -9714,19 +9714,19 @@ Xs4_227_0
 + vss
 + stage3[113]
 + stage4[227]
-+ inv
++ inv_tdc
 Xs4_227_1
 + vdd
 + vss
 + stage3[114]
 + stage4[227]
-+ inv
++ inv_tdc
 Xs5_227
 + vdd
 + vss
 + stage4[227]
 + stage5[227]
-+ inv
++ inv_tdc
 Xff_227
 + b
 + stage5[227]
@@ -9742,19 +9742,19 @@ Xs4_228_0
 + vss
 + stage3[114]
 + stage4[228]
-+ inv
++ inv_tdc
 Xs4_228_1
 + vdd
 + vss
 + stage3[114]
 + stage4[228]
-+ inv
++ inv_tdc
 Xs5_228
 + vdd
 + vss
 + stage4[228]
 + stage5[228]
-+ inv
++ inv_tdc
 Xff_228
 + b
 + stage5[228]
@@ -9770,19 +9770,19 @@ Xs4_229_0
 + vss
 + stage3[114]
 + stage4[229]
-+ inv
++ inv_tdc
 Xs4_229_1
 + vdd
 + vss
 + stage3[115]
 + stage4[229]
-+ inv
++ inv_tdc
 Xs5_229
 + vdd
 + vss
 + stage4[229]
 + stage5[229]
-+ inv
++ inv_tdc
 Xff_229
 + b
 + stage5[229]
@@ -9798,19 +9798,19 @@ Xs4_230_0
 + vss
 + stage3[115]
 + stage4[230]
-+ inv
++ inv_tdc
 Xs4_230_1
 + vdd
 + vss
 + stage3[115]
 + stage4[230]
-+ inv
++ inv_tdc
 Xs5_230
 + vdd
 + vss
 + stage4[230]
 + stage5[230]
-+ inv
++ inv_tdc
 Xff_230
 + b
 + stage5[230]
@@ -9826,19 +9826,19 @@ Xs4_231_0
 + vss
 + stage3[115]
 + stage4[231]
-+ inv
++ inv_tdc
 Xs4_231_1
 + vdd
 + vss
 + stage3[116]
 + stage4[231]
-+ inv
++ inv_tdc
 Xs5_231
 + vdd
 + vss
 + stage4[231]
 + stage5[231]
-+ inv
++ inv_tdc
 Xff_231
 + b
 + stage5[231]
@@ -9854,19 +9854,19 @@ Xs4_232_0
 + vss
 + stage3[116]
 + stage4[232]
-+ inv
++ inv_tdc
 Xs4_232_1
 + vdd
 + vss
 + stage3[116]
 + stage4[232]
-+ inv
++ inv_tdc
 Xs5_232
 + vdd
 + vss
 + stage4[232]
 + stage5[232]
-+ inv
++ inv_tdc
 Xff_232
 + b
 + stage5[232]
@@ -9882,19 +9882,19 @@ Xs4_233_0
 + vss
 + stage3[116]
 + stage4[233]
-+ inv
++ inv_tdc
 Xs4_233_1
 + vdd
 + vss
 + stage3[117]
 + stage4[233]
-+ inv
++ inv_tdc
 Xs5_233
 + vdd
 + vss
 + stage4[233]
 + stage5[233]
-+ inv
++ inv_tdc
 Xff_233
 + b
 + stage5[233]
@@ -9910,19 +9910,19 @@ Xs4_234_0
 + vss
 + stage3[117]
 + stage4[234]
-+ inv
++ inv_tdc
 Xs4_234_1
 + vdd
 + vss
 + stage3[117]
 + stage4[234]
-+ inv
++ inv_tdc
 Xs5_234
 + vdd
 + vss
 + stage4[234]
 + stage5[234]
-+ inv
++ inv_tdc
 Xff_234
 + b
 + stage5[234]
@@ -9938,19 +9938,19 @@ Xs4_235_0
 + vss
 + stage3[117]
 + stage4[235]
-+ inv
++ inv_tdc
 Xs4_235_1
 + vdd
 + vss
 + stage3[118]
 + stage4[235]
-+ inv
++ inv_tdc
 Xs5_235
 + vdd
 + vss
 + stage4[235]
 + stage5[235]
-+ inv
++ inv_tdc
 Xff_235
 + b
 + stage5[235]
@@ -9966,19 +9966,19 @@ Xs4_236_0
 + vss
 + stage3[118]
 + stage4[236]
-+ inv
++ inv_tdc
 Xs4_236_1
 + vdd
 + vss
 + stage3[118]
 + stage4[236]
-+ inv
++ inv_tdc
 Xs5_236
 + vdd
 + vss
 + stage4[236]
 + stage5[236]
-+ inv
++ inv_tdc
 Xff_236
 + b
 + stage5[236]
@@ -9994,19 +9994,19 @@ Xs4_237_0
 + vss
 + stage3[118]
 + stage4[237]
-+ inv
++ inv_tdc
 Xs4_237_1
 + vdd
 + vss
 + stage3[119]
 + stage4[237]
-+ inv
++ inv_tdc
 Xs5_237
 + vdd
 + vss
 + stage4[237]
 + stage5[237]
-+ inv
++ inv_tdc
 Xff_237
 + b
 + stage5[237]
@@ -10022,19 +10022,19 @@ Xs4_238_0
 + vss
 + stage3[119]
 + stage4[238]
-+ inv
++ inv_tdc
 Xs4_238_1
 + vdd
 + vss
 + stage3[119]
 + stage4[238]
-+ inv
++ inv_tdc
 Xs5_238
 + vdd
 + vss
 + stage4[238]
 + stage5[238]
-+ inv
++ inv_tdc
 Xff_238
 + b
 + stage5[238]
@@ -10050,19 +10050,19 @@ Xs4_239_0
 + vss
 + stage3[119]
 + stage4[239]
-+ inv
++ inv_tdc
 Xs4_239_1
 + vdd
 + vss
 + stage3[120]
 + stage4[239]
-+ inv
++ inv_tdc
 Xs5_239
 + vdd
 + vss
 + stage4[239]
 + stage5[239]
-+ inv
++ inv_tdc
 Xff_239
 + b
 + stage5[239]
@@ -10078,19 +10078,19 @@ Xs4_240_0
 + vss
 + stage3[120]
 + stage4[240]
-+ inv
++ inv_tdc
 Xs4_240_1
 + vdd
 + vss
 + stage3[120]
 + stage4[240]
-+ inv
++ inv_tdc
 Xs5_240
 + vdd
 + vss
 + stage4[240]
 + stage5[240]
-+ inv
++ inv_tdc
 Xff_240
 + b
 + stage5[240]
@@ -10106,19 +10106,19 @@ Xs4_241_0
 + vss
 + stage3[120]
 + stage4[241]
-+ inv
++ inv_tdc
 Xs4_241_1
 + vdd
 + vss
 + stage3[121]
 + stage4[241]
-+ inv
++ inv_tdc
 Xs5_241
 + vdd
 + vss
 + stage4[241]
 + stage5[241]
-+ inv
++ inv_tdc
 Xff_241
 + b
 + stage5[241]
@@ -10134,19 +10134,19 @@ Xs4_242_0
 + vss
 + stage3[121]
 + stage4[242]
-+ inv
++ inv_tdc
 Xs4_242_1
 + vdd
 + vss
 + stage3[121]
 + stage4[242]
-+ inv
++ inv_tdc
 Xs5_242
 + vdd
 + vss
 + stage4[242]
 + stage5[242]
-+ inv
++ inv_tdc
 Xff_242
 + b
 + stage5[242]
@@ -10162,19 +10162,19 @@ Xs4_243_0
 + vss
 + stage3[121]
 + stage4[243]
-+ inv
++ inv_tdc
 Xs4_243_1
 + vdd
 + vss
 + stage3[122]
 + stage4[243]
-+ inv
++ inv_tdc
 Xs5_243
 + vdd
 + vss
 + stage4[243]
 + stage5[243]
-+ inv
++ inv_tdc
 Xff_243
 + b
 + stage5[243]
@@ -10190,19 +10190,19 @@ Xs4_244_0
 + vss
 + stage3[122]
 + stage4[244]
-+ inv
++ inv_tdc
 Xs4_244_1
 + vdd
 + vss
 + stage3[122]
 + stage4[244]
-+ inv
++ inv_tdc
 Xs5_244
 + vdd
 + vss
 + stage4[244]
 + stage5[244]
-+ inv
++ inv_tdc
 Xff_244
 + b
 + stage5[244]
@@ -10218,19 +10218,19 @@ Xs4_245_0
 + vss
 + stage3[122]
 + stage4[245]
-+ inv
++ inv_tdc
 Xs4_245_1
 + vdd
 + vss
 + stage3[123]
 + stage4[245]
-+ inv
++ inv_tdc
 Xs5_245
 + vdd
 + vss
 + stage4[245]
 + stage5[245]
-+ inv
++ inv_tdc
 Xff_245
 + b
 + stage5[245]
@@ -10246,19 +10246,19 @@ Xs4_246_0
 + vss
 + stage3[123]
 + stage4[246]
-+ inv
++ inv_tdc
 Xs4_246_1
 + vdd
 + vss
 + stage3[123]
 + stage4[246]
-+ inv
++ inv_tdc
 Xs5_246
 + vdd
 + vss
 + stage4[246]
 + stage5[246]
-+ inv
++ inv_tdc
 Xff_246
 + b
 + stage5[246]
@@ -10274,19 +10274,19 @@ Xs4_247_0
 + vss
 + stage3[123]
 + stage4[247]
-+ inv
++ inv_tdc
 Xs4_247_1
 + vdd
 + vss
 + stage3[124]
 + stage4[247]
-+ inv
++ inv_tdc
 Xs5_247
 + vdd
 + vss
 + stage4[247]
 + stage5[247]
-+ inv
++ inv_tdc
 Xff_247
 + b
 + stage5[247]
@@ -10302,19 +10302,19 @@ Xs4_248_0
 + vss
 + stage3[124]
 + stage4[248]
-+ inv
++ inv_tdc
 Xs4_248_1
 + vdd
 + vss
 + stage3[124]
 + stage4[248]
-+ inv
++ inv_tdc
 Xs5_248
 + vdd
 + vss
 + stage4[248]
 + stage5[248]
-+ inv
++ inv_tdc
 Xff_248
 + b
 + stage5[248]
@@ -10330,19 +10330,19 @@ Xs4_249_0
 + vss
 + stage3[124]
 + stage4[249]
-+ inv
++ inv_tdc
 Xs4_249_1
 + vdd
 + vss
 + stage3[125]
 + stage4[249]
-+ inv
++ inv_tdc
 Xs5_249
 + vdd
 + vss
 + stage4[249]
 + stage5[249]
-+ inv
++ inv_tdc
 Xff_249
 + b
 + stage5[249]
@@ -10358,19 +10358,19 @@ Xs4_250_0
 + vss
 + stage3[125]
 + stage4[250]
-+ inv
++ inv_tdc
 Xs4_250_1
 + vdd
 + vss
 + stage3[125]
 + stage4[250]
-+ inv
++ inv_tdc
 Xs5_250
 + vdd
 + vss
 + stage4[250]
 + stage5[250]
-+ inv
++ inv_tdc
 Xff_250
 + b
 + stage5[250]
@@ -10386,19 +10386,19 @@ Xs4_251_0
 + vss
 + stage3[125]
 + stage4[251]
-+ inv
++ inv_tdc
 Xs4_251_1
 + vdd
 + vss
 + stage3[126]
 + stage4[251]
-+ inv
++ inv_tdc
 Xs5_251
 + vdd
 + vss
 + stage4[251]
 + stage5[251]
-+ inv
++ inv_tdc
 Xff_251
 + b
 + stage5[251]
@@ -10412,7 +10412,7 @@ Xff_251
 .ends tdc_64
 
 
-.subckt inv
+.subckt inv_tdc
 + vdd
 + vss
 + din
@@ -10430,7 +10430,7 @@ XMN0
 + vss
 + vss
 + mos_w1000_l150_m1_nf1_id0
-.ends inv
+.ends inv_tdc
 
 
 .subckt sky130_fd_sc_hd__dfrtp_2_wrapper
